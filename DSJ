@@ -1,0 +1,1185 @@
+#EXTM3U
+#EXTINF:-1 group-title="卫视", 新华中文
+http://livecdn1.news.cn/cnccn/manifest.m3u8
+#EXTINF:-1 group-title="卫视", 重庆卫视
+http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8
+#EXTINF:-1 group-title="卫视", 重庆卫视
+https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
+#EXTINF:-1 group-title="卫视", 重庆卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 重庆新闻
+http://onsitecdn.cbgcloud.com/4zjt2a/zb7nip.m3u8
+#EXTINF:-1 group-title="卫视", 四川卫视
+http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+#EXTINF:-1 group-title="卫视", 四川卫视
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=69&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 四川旅游
+http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+#EXTINF:-1 group-title="卫视", 河北卫视
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 group-title="卫视", 北京卫视
+https://116.77.72.195/streams/d/bjws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 北京卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228500/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 北京卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=046&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 北京卫视
+http://stream.cdjsxy.cn/bjws/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 广东卫视
+http://nclive.grtn.cn/gdws/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 广东卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 广东卫视
+https://116.77.72.195/streams/d/gdws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 深圳卫视
+https://116.77.72.195/streams/d/szws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 深圳卫视
+http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
+#EXTINF:-1 group-title="卫视", 深圳卫视
+http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=50&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 深圳卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228497/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 吉林卫视
+http://stream4.jlntv.cn/test2/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 吉林卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="卫视", 江苏卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228494/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 江苏卫视
+https://116.77.72.195/streams/d/jsws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 江苏卫视
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000152.m3u8&t=hls
+#EXTINF:-1 group-title="卫视", 江苏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="卫视", 江苏卫视
+http://221.6.85.150:9000/live/jsws_800/jsws_800.m3u8
+#EXTINF:-1 group-title="卫视", 湖南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228516/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 湖南卫视
+http://36526.hlsplay.aodianyun.com/tv_radio_36526/tv_channel_555.m3u8
+#EXTINF:-1 group-title="卫视", 湖南卫视
+http://223.110.242.130:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
+#EXTINF:-1 group-title="卫视", 湖南卫视
+http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 湖南卫视
+http://220.158.149.14:9999/live/TV00000000000000000019@HHZT;LIVE?DSJTV.m3u8
+#EXTINF:-1 group-title="卫视", 湖北卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=054&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 湖北卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228512/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 黑龙江台
+http://stream3.hljtv.com/hljws2/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 黑龙江台
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225980/index.m3u8
+#EXTINF:-1 group-title="卫视", 黑龙江台
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=045&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 内蒙古台
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="卫视", 内蒙古台
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="卫视", 东南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="卫视", 东南卫视
+http://111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="卫视", 海峡卫视
+http://player.ioioz.com/18/tv.php?tv=fjtv&id=hxws
+#EXTINF:-1 group-title="卫视", 海南卫视
+http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
+#EXTINF:-1 group-title="卫视", 香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="卫视", 安徽卫视
+http://zbbf2.ahtv.cn/live/749.m3u8
+#EXTINF:-1 group-title="卫视", 安徽卫视
+https://116.77.72.195/streams/d/ahws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 安徽卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=008&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 安徽卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228506/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 山东卫视
+https://116.77.72.195/streams/d/sdws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 山东卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 山东卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 山东卫视
+http://220.158.149.14:9999/live/TV00000000000000000047@HHZT;LIVE?DSJTV.m3u8
+#EXTINF:-1 group-title="卫视", 云南卫视
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 group-title="卫视", 云南卫视
+http://edge1.yntv.cn/channels/yntv/ynws/m3u8:sd
+#EXTINF:-1 group-title="卫视", 云南卫视
+http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="卫视", 浙江卫视
+https://116.77.72.195/streams/d/zjws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226134/index.m3u8
+#EXTINF:-1 group-title="卫视", 浙江卫视
+http://111.48.34.149/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8
+#EXTINF:-1 group-title="卫视", 浙江卫视
+http://221.6.85.150:9000/live/zjws_800/zjws_800.m3u8
+#EXTINF:-1 group-title="卫视", 浙江卫视
+http://cczylive.chuangwanghulian.cn/live/zy_1487739335286.flv?auth_key=1593353626-44114109-0-0f24981aabb881e9a542570052db8798
+#EXTINF:-1 group-title="卫视", 天津卫视
+https://116.77.72.195/streams/d/tjws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 天津卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=057&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226135/index.m3u8
+#EXTINF:-1 group-title="卫视", 天津卫视
+http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="卫视", 青海卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 青海卫视
+http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="卫视", 辽宁卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228317/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 辽宁卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="卫视", 辽宁卫视
+https://116.77.72.195/streams/d/lnws/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 辽宁卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225888/2.m3u8
+#EXTINF:-1 group-title="卫视", 宁夏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="卫视", 宁夏卫视
+http://101.71.255.229:6610/zjhs/2/10036/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10036&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=440IB070GFIY7R5RI5P51WEZIWD8&ts=1553499508
+#EXTINF:-1 group-title="卫视", 甘肃卫视
+http://112.17.40.140/PLTV/88888888/224/3221226187/index.m3u8
+#EXTINF:-1 group-title="卫视", 甘肃卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="卫视", 江西卫视
+http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8
+#EXTINF:-1 group-title="卫视", 江西卫视
+http://117.169.120.140:8080/live/jiangxistv/.m3u8
+#EXTINF:-1 group-title="卫视", 陕西卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视", 陕西卫视
+http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="卫视", 陕西卫视
+http://112.17.40.140/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 group-title="卫视", 新疆卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="卫视", 澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="卫视", 南方卫视
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="卫视", 南方卫视
+http://183.238.77.9:9090/live/gdnanfang_1500.m3u8
+#EXTINF:-1 group-title="卫视", 中华特产
+http://play.zhtctv.cn/portal/btv.m3u8
+#EXTINF:-1 group-title="卫视", 峨眉电影
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="卫视", 东方影视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
+#EXTINF:-1 group-title="卫视", 无锡综合
+http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 无锡都市
+http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 广东体育
+https://116.77.72.195/streams/d/gdty/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 广东珠江
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 广东综艺
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 group-title="卫视", 三亚电视
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 group-title="卫视", 威海海洋
+http://l2.weihai.tv:8081/hls/haiyangpd.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 01
+http://wshls.butel.com/live/4387.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 01
+https://116.77.72.195/streams/d/cctv1a/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 01
+http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 01
+http://l1.weihai.tv:8081/hls/3bjRUVNYwi.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 01
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 01
+http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 02
+https://116.77.72.195/streams/d/cctv2/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 02
+http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8?wsSecret=0f883c8649a6b883016f6408d7c80f9d&wsTime=1509347397
+#EXTINF:-1 group-title="央视" , CCTV 02
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 02
+http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 02
+http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1 group-title="央视" , CCTV 03
+https://116.77.72.195/streams/d/cctv3/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 03
+http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i
+#EXTINF:-1 group-title="央视" , CCTV 03
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228563/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 03
+http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 03
+http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 04
+http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 04
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/index.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 04
+http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 04
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229319/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 05
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228570/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 05
+https://116.77.72.195/streams/d/cctv5/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 05
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1 group-title="央视" , CCTV 05
+http://221.6.85.150:9000/live/cctv5_800/cctv5_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 06
+https://116.77.72.195/streams/d/cctv6/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 06
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228566/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 06
+http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 07
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228507/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 07
+https://116.77.72.195/streams/d/cctv7/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 07
+http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 08
+https://116.77.72.195/streams/d/cctv8/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 08
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228569/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 08
+http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 09
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228510/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 09
+https://116.77.72.195/streams/d/cctv9/playlist.m3u8http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 09
+http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 10
+http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 group-title="央视" , CCTV 10
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228513/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 10
+https://116.77.72.195/streams/d/cctv10/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 10
+http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 11
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228297/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 11
+https://116.77.72.195/streams/d/cctv11/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 11
+http://221.6.85.150:9000/live/cctv11_800/cctv11_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 12
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228485/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 12
+https://116.77.72.195/streams/d/cctv12/playlist.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 12
+http://221.6.85.150:9000/live/cctv12_800/cctv12_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 13
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 13
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 13
+http://liveali.ifeng.com/live/CCTV.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 13
+http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 13
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228266/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 13
+http://117.169.120.140:8080/live/cctv-13/.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 14
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228488/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 14
+http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 14
+http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 15
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 15
+http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 15
+http://223.82.250.72/live/cctv-15/1.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 17
+http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 17
+http://stream.cdjsxy.cn/lypd/sd/live.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 17
+http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE?DSJTV.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 体育赛事
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视" , CCTV 体育赛事
+http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+#EXTINF:-1 group-title="央视" , CCTV 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 group-title="央视" , CETV 教育一台
+http://stream.cdjsxy.cn/zgjy/sd/live.m3u8
+#EXTINF:-1 group-title="央视" , CETV 教育一台
+http://220.158.149.14:9999/live/TV00000000000000000026@HHZT;LIVE?DSJTV.m3u8
+#EXTINF:-1 group-title="央视" , CETV 教育一台
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8
+#EXTINF:-1 group-title="央视" , CGTN 国际频道
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="央视" , CGTN 记录频道
+http://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="央视" , CGTN 法语频道
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 老故事台
+http://223.110.242.130:6610/gitv/live1/G_LAOGUSHI/1.m3u8
+#EXTINF:-1 group-title="央视" , CCTV 4K超高清
+http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 group-title="地方"  , 浙江 Ⅰ 柯桥综合台
+http://live.scbtv.cn/hls/news/index.m3u8
+#EXTINF:-1 group-title="地方"  , 浙江 Ⅰ 柯桥时尚台
+http://live.scbtv.cn/hls/qfc/index.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 六安综合台
+http://live.china-latv.com/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 六安公共台
+http://live.china-latv.com/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 淮北公共台
+http://live.0561rtv.cn/ggpd/hd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 淮北综合台
+http://live.0561rtv.cn/xwzh/hd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 无锡综合台
+http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 无锡都市台
+http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 南京综合台
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 苏州综合台
+http://player.200877926.top/17/js/suzhoum3u8.php?id=60
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 苏州生活台
+http://player.ioioz.com/18/tv.php?tv=jssztv&id=53
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 扬州综合台
+http://player.200877926.top/18/yangzhou.php?u=jsyztv1
+#EXTINF:-1 group-title="地方"  , 云南 Ⅰ 文山综合台
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="地方"  , 云南 Ⅰ 文山公共台
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
+#EXTINF:-1 group-title="地方"  , 北京 Ⅰ 北京文艺台
+http://101.89.132.136/live/tm-btv2hd-800k.m3u8
+#EXTINF:-1 group-title="地方"  , 北京 Ⅰ 北京影视台
+http://101.89.132.136/live/tm-btv4-800k.m3u8
+#EXTINF:-1 group-title="地方"  , 北京 Ⅰ 北京新闻台
+http://101.89.132.136/live/tm-btv9-800k.m3u8
+#EXTINF:-1 group-title="地方"  , 上海 Ⅰ 东方影视台
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
+#EXTINF:-1 group-title="地方"  , 上海 Ⅰ 第一财经台
+http://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8
+#EXTINF:-1 group-title="地方"  , 上海 Ⅰ 第一财经台
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 番禺综合台
+http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
+#EXTINF:-1 group-title="地方"  , 湖南 Ⅰ 湘潭综合台
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="地方"  , 湖南 Ⅰ 常德综合台
+http://zhibo.changdejia.com/cdtv/xwzh.m3u8
+#EXTINF:-1 group-title="地方"  , 湖南 Ⅰ 常德公共台
+http://zhibo.changdejia.com/cdtv/ggpd.m3u8
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 荆门综合台
+http://jingmen.live.cjyun.org/video/s10101-jmnews.m3u8
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 荆门综合台
+http://live.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 荆门公共台
+http://live.jmtv.com.cn/ngpd/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 荆门公共台
+http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8
+#EXTINF:-1 group-title="地方"  , 山西 Ⅰ 大同综合台
+http://hwzbout.yunshicloud.com/p2984z/k8kl9m.m3u8
+#EXTINF:-1 group-title="地方"  , 山西 Ⅰ 大同公共台
+https://hwapi.yunshicloud.com/p2984z/239g8l.m3u8
+#EXTINF:-1 group-title="地方"  , 山西 Ⅰ 大同生活台
+https://hwapi.yunshicloud.com/p2984z/lnbwyz.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 四川公共台
+http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 巴中综合台
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 巴中公共台
+https://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 雅安综合台
+http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 雅安公共台
+http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 韶关综合台
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 韶关公共台
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 乐山综合台
+http://flv.channellive.leshantv.net/live/ch1.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 乐山公共台
+http://flv.channellive.leshantv.net/live/ch2.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 西昌综合台
+http://stream.xctv.news:8084/1a6c203cd4644dd9a27a4b07a1159e14/h264_500k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 西昌综合台
+http://stream.xctv.news:8084/live/1a6c203cd4644dd9a27a4b07a1159e14?fmt=h264_500k_flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 达州综合台
+http://tv.drs.dzxw.net/channellive/dzrtv-hd1.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 达州综合台
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 达州公共台
+http://tv.drs.dzxw.net/channellive/dzrtv-hd2.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 达州公共台
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 遂宁综合台
+http://snlive.scsntv.com:8091/live/xwzh.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 遂宁公共台
+http://snlive.scsntv.com:8091/live/gggy.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 攀枝花综合
+http://zb.pzhgd.com:9091/live/xwzh.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 泸州综合台
+http://tvdrs.weblz.com.cn:8100/channellive/lztv1.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 泸州综合台
+http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 泸州公共台
+http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 泸州公共台
+http://tvdrs.weblz.com.cn:8100/channellive/lztv2.flv
+#EXTINF:-1 group-title="地方"  , 四川 Ⅰ 泸州科技台
+http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 郎溪综合台
+http://117.70.93.210:1935/live/xinwen/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 郎溪影视台
+http://117.70.93.210:1935/live/yingshi/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 山东 Ⅰ 济南综合台
+http://ts1.ijntv.cn/xwhd/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 山东 Ⅰ 济宁综合台
+http://lives.jnnews.tv/video/s10001-jntv/index.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 黄山综合台
+http://ks-hls.juyun.tv/live/hs_stream1/index.m3u8
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 靖江电视台
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 睢宁综合台
+http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
+#EXTINF:-1 group-title="地方"  , 上海 Ⅰ 浦东综合台
+http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8
+#EXTINF:-1 group-title="地方"  , 重庆 Ⅰ 万州综合台
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="地方"  , 重庆 Ⅰ 万州综合台
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="地方"  , 重庆 Ⅰ 万州影视台
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="地方"  , 重庆 Ⅰ 渝北综合台
+http://yubeilive.cbg.cn/ch1-3.m3u8
+#EXTINF:-1 group-title="地方"  , 重庆 Ⅰ 渝北都市台
+http://yubeilive.cbg.cn/ch0-3.m3u8
+#EXTINF:-1 group-title="地方"  , 宁夏 Ⅰ 中宁综合台
+http://juyunlive.juyun.tv/live/15470167.m3u8
+#EXTINF:-1 group-title="地方"  , 宁夏 Ⅰ 银川生活台
+http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 佛山综合台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 佛山影视台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 佛山公共台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 佛山顺德台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
+#EXTINF:-1 group-title="地方"  , 山东 Ⅰ 威海综合台
+http://l2.weihai.tv:8081/hls/czv7gqQ091.m3u8
+#EXTINF:-1 group-title="地方"  , 湖南 Ⅰ 娄底综合台
+http://218.77.102.118:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 湖南 Ⅰ 娄底公共台
+http://218.77.102.118:1935/live/gonggong/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 襄阳公共台
+http://xiangyang.live.cjyun.org/video/s10125-education_hd.m3u8
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 襄阳综合台
+http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+#EXTINF:-1 group-title="地方"  , 河南 Ⅰ 河南都市台
+http://player.200877926.top/18/tv.php?tv=hayx&id=82
+#EXTINF:-1 group-title="地方"  , 广西 Ⅰ 南宁综合台
+http://24tl.qingk.cn/live/NNTV_NEWS_A.m3u8
+#EXTINF:-1 group-title="地方"  , 陕西 Ⅰ 安康综合台
+http://pili-live-hls.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 福建综合台
+http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjzh
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 泉州综合台
+http://live.qztvxwgj.com/live/news.m3u8
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 晋江电视台
+http://stream.jinjiang.tv/1/sd/live.m3u8?_upt=7738cbdd1569250965
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 乡村公共台
+http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjgg
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 乡村公共台
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 福建旅游台
+http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjds
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 福建旅游台
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
+#EXTINF:-1 group-title="地方"  , 黑龙 Ⅰ 黑龙江都市
+http://stream3.hljtv.com/hljdd2/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 开平综合台
+http://livepk.chinamcache.com/kpx/kpzb02.m3u8?auth_key=1561968745-0-0-7b65cb80dce4fbae47b4daa992d18e76
+#EXTINF:-1 group-title="地方"  , 广东 Ⅰ 开平生活台
+http://livepk.chinamcache.com/kpx/kpzb01.m3u8?auth_key=1561968703-0-0-dbda38cd37b5ae987ae9b6de3bec9ae0
+#EXTINF:-1 group-title="地方"  , 山东 Ⅰ 德州综合台
+http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 山东 Ⅰ 德州公共台
+http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 铜陵综合台
+http://dstpush1.retalltech.com/app/stream1.m3u8
+#EXTINF:-1 group-title="地方"  , 安徽 Ⅰ 铜陵公共台
+http://dstpush1.retalltech.com/app/stream2.m3u8
+#EXTINF:-1 group-title="地方"  , 江苏 Ⅰ 东海综合台
+rtmp://livetv.dhtv.cn/live/news
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 随州综合台
+http://suizhou.source.cjyun.org/video/s10145-szzhpd.m3u8
+#EXTINF:-1 group-title="地方"  , 湖北 Ⅰ 随州农村台
+http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
+#EXTINF:-1 group-title="地方"  , 云南 Ⅰ 云南娱乐台
+http://edge1.yntv.cn/channels/yntv/ynyl/m3u8:sd
+#EXTINF:-1 group-title="地方"  , 云南 Ⅰ 云南都市台
+http://edge1.yntv.cn/channels/yntv/ynds/m3u8:sd
+#EXTINF:-1 group-title="地方"  , 云南 Ⅰ 云南公共台
+http://edge1.yntv.cn/channels/yntv/yngg/m3u8:sd
+#EXTINF:-1 group-title="地方"  , 云南 Ⅰ 红河综合台
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="地方"  , 福建 Ⅰ 长乐电视台
+http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
+#EXTINF:-1 group-title="地方"  , 吉林 Ⅰ 长春综合台
+http://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 江西 Ⅰ 上饶综合台
+http://live.0793.tv/srtv1/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 甘肃 Ⅰ 酒泉综合台
+http://117.156.28.57/PLTV/88888888/224/3221225837/index.m3u8
+#EXTINF:-1 group-title="地方"  , 陕西 Ⅰ 西安新闻台
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 陕西 Ⅰ 西安白鸽台
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 陕西 Ⅰ 西安影视台
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 group-title="地方"  , 陕西 Ⅰ 西安丝路台
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 group-title="港台"   , TVB 明珠台
+http://183.238.77.9:9090/live/xgmingzhu_1500.m3u8
+#EXTINF:-1 group-title="港台"   , TVB 新闻台
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1578959492~exp=1579045892~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=092e665499f9390e11a88d766aa0a5a78ebd9fe03f8107c7217487242cf2966e
+#EXTINF:-1 group-title="港台"   , TVB 新闻台
+msc://CIN5
+#EXTINF:-1 group-title="港台"   , TVB 新闻台
+http://www.liveviptv.xyz/tv/tvb.php
+#EXTINF:-1 group-title="港台"   , TVB 财经台
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1578959556~exp=1579045956~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=117a5ab682236804369b10333935229076126ed2189b95197dce8bc6b7a1bebc
+#EXTINF:-1 group-title="港台"   , 香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台"   , 香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港台"   , 星空体育
+rtmp://58.200.131.2:1935/livetv/starsports
+#EXTINF:-1 group-title="港台"   , 阳光卫视
+http://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 group-title="港台"   , 澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="港台"   , 澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 group-title="港台"   , 澳视卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="港台"   , 澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="港台"   , 澳门一台
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 group-title="港台"   , 中视
+http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="港台"   , 华视
+http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 group-title="港台"   , 环宇二台
+http://ms003.happytv.com.tw/live/LkGxb1zZh7a42SrJ/index.m3u8?token=HCk00HVoEzdSJrBGcRrcmg&time=1579008403908
+#EXTINF:-1 group-title="港台"   , 中天综合
+http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 group-title="港台"   , 中天新闻
+http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 group-title="港台"   , 三立新闻
+http://%36%30%2e%31%39%39%2e%31%38%38%2e%36%35/%48%4c%53/%57%47%5f%45%54%54%56%2d%4e/%30%31%2e%6d%33%75%38
+#EXTINF:-1 group-title="港台"   , 壹新闻台
+https://ad.mysisli.com/live/NEXTTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台"   , 东森新闻
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="港台"   , 番薯电视
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size=720X480&toflv=1&start=
+#EXTINF:-1 group-title="港台"   , 动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 group-title="港台"   , 八大综合
+http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 group-title="港台"   , 华纳电影
+http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="港台"   , 福克斯电影台
+http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="港台"   , 日本 Ⅰ NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="港台"   , 韩国 Ⅰ EBS 第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="港台"   , 韩国 Ⅰ EBS 少儿频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="港台"   , 阿联酋 Ⅰ 阿布体育1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 group-title="港台"   , 阿联酋 Ⅰ 阿布体育1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="港台"   , 阿联酋 Ⅰ 阿布体育2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 group-title="港台"   , 阿联酋 Ⅰ 阿布体育2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="轮播"    , 野食小哥
+http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播"    , 熊猫直播
+https://mobilelive-play.ysp.cctv.cn/ysp/2001366601_hd.m3u8
+#EXTINF:-1 group-title="轮播"    , 家庭影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播"    , 家庭影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播"    , 黑莓动画
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 group-title="轮播"    , 亚洲电影
+http://aldirect.hls.huya.com:80/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_2000.m3u8
+#EXTINF:-1 group-title="轮播"    , 星影电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播"    , 星影电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播"    , 海外影院
+http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+#EXTINF:-1 group-title="轮播"    , 海外剧场
+http://tx.hls.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播"    , 戏剧影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播"    , 戏剧影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="轮播"    , 高清影视
+http://tx.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播"    , 恐怖电影
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播"    , 惊魂电影
+http://aldirect.hls.huya.com/huyalive/1448686674-1448686674-6222061886981013504-2789274590-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播"    , 金庸武侠
+https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播"    , 乐视电影
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
+#EXTINF:-1 group-title="轮播"    , 乐视电视剧
+http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播"    , 周星驰电影
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播"    , 周润发电影
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播"    , 刘德华电影
+http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播"    , 甄子丹电影
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_2000.m3u8
+#EXTINF:-1 group-title="轮播"    , 李连杰电影
+https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播"    , 洪金宝电影
+https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="轮播"    , 林正英电影
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="舞曲"    , 花姐 Ⅰ 狂浪DJ
+http://www.zuori.cc/index/downloads?d=43165&v=6zdYTEO6
+#EXTINF:-1 group-title="舞曲"    , 暴林 Ⅰ 殇雪DJ
+http://www.zuori.cc/index/downloads?d=43165&v=MXMgq6BW
+#EXTINF:-1 group-title="舞曲"    , 于文文 Ⅰ 体面DJ
+http://www.zuori.cc/index/downloads?d=43165&v=7Oea574a
+#EXTINF:-1 group-title="舞曲"    , 孙艺琪 Ⅰ 情火DJ
+http://www.zuori.cc/index/downloads?d=43165&v=U8EDn16E
+#EXTINF:-1 group-title="舞曲"    , 寂悸 Ⅰ 潮湿的心DJ
+http://www.zuori.cc/index/downloads?d=43165&v=nSt1GrE5
+#EXTINF:-1 group-title="舞曲"    , 安琪 Ⅰ 曾经被爱DJ
+http://www.zuori.cc/index/downloads?d=43165&v=O9OqWF6d
+#EXTINF:-1 group-title="舞曲"    , 粤语 Ⅰ 因为爱你DJ
+http://www.zuori.cc/index/downloads?d=43165&v=VPxlpaoT
+#EXTINF:-1 group-title="舞曲"    , 郑伊涵 Ⅰ 公虾米DJ
+http://www.zuori.cc/index/downloads?d=43165&v=g9VskQ8m
+#EXTINF:-1 group-title="舞曲"    , 龚玥菲 Ⅰ 夜上海DJ
+http://www.zuori.cc/index/downloads?d=43165&v=rbkJF5GO
+#EXTINF:-1 group-title="舞曲"    , 王思佳 Ⅰ 哦哦哦DJ
+http://www.zuori.cc/index/downloads?d=43165&v=rPR7pEDi
+#EXTINF:-1 group-title="舞曲"    , 杭娇 Ⅰ 忘了我的爱DJ
+http://www.zuori.cc/index/downloads?d=43165&v=1Tr1O15w
+#EXTINF:-1 group-title="舞曲"    , 郭玲 Ⅰ 拥抱你离去DJ
+http://www.zuori.cc/index/downloads?d=43165&v=tFlFt45a
+#EXTINF:-1 group-title="舞曲"    , 魏新雨 Ⅰ 为你祈祷DJ
+http://www.zuori.cc/index/downloads?d=43165&v=81EPvKd5
+#EXTINF:-1 group-title="舞曲"    , 杨妹儿 Ⅰ 孤单为伴DJ
+http://www.zuori.cc/index/downloads?d=43165&v=JLsdfUMo
+#EXTINF:-1 group-title="舞曲"    , 唐古 Ⅰ 突然好想念DJ
+http://www.zuori.cc/index/downloads?d=43165&v=0yFX47z6
+#EXTINF:-1 group-title="舞曲"    , 张文绮 Ⅰ 三分钟热度DJ
+http://www.zuori.cc/index/downloads?d=43165&v=aaNkA4dQ
+#EXTINF:-1 group-title="舞曲"    , 孙耀威 Ⅰ 爱的故事上集DJ
+http://www.zuori.cc/index/downloads?d=43165&v=0kmgijwc
+#EXTINF:-1 group-title="舞曲"    , 越南语 Ⅰ 失恋阵线联盟DJ
+http://www.zuori.cc/index/downloads?d=43165&v=1LwHVY6I
+#EXTINF:-1 group-title="舞曲"    , 彭丽嘉 Ⅰ 爱着你宠着你DJ
+http://www.zuori.cc/index/downloads?d=43165&v=RVKFm7E4
+#EXTINF:-1 group-title="舞曲"    , 孙艺琪 Ⅰ 苍天不负有情人DJ
+http://www.zuori.cc/index/downloads?d=43165&v=Hswt4vOf
+#EXTINF:-1 group-title="舞曲"    , 浪哥 Ⅰ 下辈子也要找到你DJ
+http://www.zuori.cc/index/downloads?d=43165&v=xS3bt8uo
+#EXTINF:-1 group-title="舞曲"    , 王奕心 Ⅰ 我的唇吻不到我爱的人DJ
+http://www.zuori.cc/index/downloads?d=43165&v=TNlvijwq
+#EXTINF:-1 group-title="音乐"    , 新年贺岁 Ⅰ 年来了
+https://www.zuori.cc/index/downloads?d=43165&v=S8I83kaD
+#EXTINF:-1 group-title="音乐"    , 新年贺岁 Ⅰ 春之晨
+https://www.zuori.cc/index/downloads?d=43165&v=oh9vhM0h
+#EXTINF:-1 group-title="音乐"    , 新年贺岁 Ⅰ 活出自己
+https://www.zuori.cc/index/downloads?d=43165&v=OO8fosVz
+#EXTINF:-1 group-title="音乐"    , 新年贺岁 Ⅰ 招财进宝
+https://www.zuori.cc/index/downloads?d=43165&v=d0sXm82t
+#EXTINF:-1 group-title="音乐"    , 王杰 Ⅰ 她的背影
+http://www.zuori.cc/index/downloads?d=43165&v=nRVVkwmi
+#EXTINF:-1 group-title="音乐"    , 王杰 Ⅰ 冰冷长街
+http://www.zuori.cc/index/downloads?d=43165&v=flmxs557
+#EXTINF:-1 group-title="音乐"    , 张文绮 Ⅰ 水喷喷
+http://www.zuori.cc/index/downloads?d=43165&v=Hf2b8YC4
+#EXTINF:-1 group-title="音乐"    , 洪百惠 Ⅰ 人生茶
+http://www.zuori.cc/index/downloads?d=43165&v=Xq7BaVO4
+#EXTINF:-1 group-title="音乐"    , 张玮伽 Ⅰ 假情真爱
+http://www.zuori.cc/index/downloads?d=43165&v=pC4bCF7e
+#EXTINF:-1 group-title="音乐"    , 程慧雯 Ⅰ 一生何求
+http://www.zuori.cc/index/downloads?d=43165&v=EH8H4mqi
+#EXTINF:-1 group-title="音乐"    , 戴梅君 Ⅰ 公主时代
+http://www.zuori.cc/index/downloads?d=43165&v=CkTdpMhm
+#EXTINF:-1 group-title="音乐"    , 洪百慧 Ⅰ 白蛇传说
+http://www.zuori.cc/index/downloads?d=43165&v=vJzfnVl3
+#EXTINF:-1 group-title="音乐"    , 四国语 Ⅰ 情非得已
+http://www.zuori.cc/index/downloads?d=43165&v=lWnw2KAH
+#EXTINF:-1 group-title="音乐"    , 越南语 Ⅰ 千千阙歌
+http://www.zuori.cc/index/downloads?d=43165&v=Sm8LDI0C
+#EXTINF:-1 group-title="音乐"    , 最电台 Ⅰ 千千阙歌
+http://www.zuori.cc/index/downloads?d=43165&v=DPYUrbeA
+#EXTINF:-1 group-title="音乐"    , 张国荣 Ⅰ 倩女幽魂
+http://www.zuori.cc/index/downloads?d=43165&v=V3wfKaQ0
+#EXTINF:-1 group-title="音乐"    , 罗翎允 Ⅰ 欢喜就好
+http://www.zuori.cc/index/downloads?d=43165&v=bycHVXiE
+#EXTINF:-1 group-title="音乐"    , 程慧雯 Ⅰ 惦记这一些
+http://www.zuori.cc/index/downloads?d=43165&v=EsTVONKi
+#EXTINF:-1 group-title="音乐"    , 潘美辰 Ⅰ 爱情的故事
+http://www.zuori.cc/index/downloads?d=43165&v=f0gUuOOM
+#EXTINF:-1 group-title="音乐"    , 张文绮 Ⅰ 爱情的模样
+http://www.zuori.cc/index/downloads?d=43165&v=4kBMuDMy
+#EXTINF:-1 group-title="音乐"    , 张文绮 Ⅰ 爱着无法度
+http://www.zuori.cc/index/downloads?d=43165&v=ou0sUdEi
+#EXTINF:-1 group-title="音乐"    , 陈丽媚 Ⅰ 许多年以后
+http://www.zuori.cc/index/downloads?d=43165&v=cDvQfNd8
+#EXTINF:-1 group-title="音乐"    , 越南语 Ⅰ 大约在冬季
+http://www.zuori.cc/index/downloads?d=43165&v=OeCGPCpd
+#EXTINF:-1 group-title="音乐"    , 戴梅君 Ⅰ 心痛的情歌
+http://www.zuori.cc/index/downloads?d=43165&v=wBGGpkVQ
+#EXTINF:-1 group-title="音乐"    , 戴梅君 Ⅰ 做你的亲爱的
+http://www.zuori.cc/index/downloads?d=43165&v=7HjizuAu
+#EXTINF:-1 group-title="音乐"    , 小曼 Ⅰ 别让我一个人醉
+http://www.zuori.cc/index/downloads?d=43165&v=QQ4dkhjn
+#EXTINF:-1 group-title="音乐"    , 门丽 Ⅰ 死心塌地去爱你
+http://www.zuori.cc/index/downloads?d=43165&v=uc94qQhF
+#EXTINF:-1 group-title="音乐"    , 郑意文 Ⅰ 一二三我愛你
+http://www.zuori.cc/index/downloads?d=43165&v=rpQxwLBO
+#EXTINF:-1 group-title="音乐"    , 方季惟 Ⅰ 听说你离开他
+http://www.zuori.cc/index/downloads?d=43165&v=yo2IMAcT
+#EXTINF:-1 group-title="音乐"    , 陈俐绢 Ⅰ 下定决心忘记你
+http://www.zuori.cc/index/downloads?d=43165&v=ErLmRcIn
+#EXTINF:-1 group-title="音乐"    , 越南语 Ⅰ 容易受伤的女人
+http://www.zuori.cc/index/downloads?d=43165&v=9P8kA6XS
+#EXTINF:-1 group-title="音乐"    , 金小鱼 Ⅰ 最熟悉的陌生人
+http://www.zuori.cc/index/downloads?d=43165&v=KPqnBl7Q
+#EXTINF:-1 group-title="音乐"    , 阮明雪 Ⅰ 天后现场演唱会
+http://www.zuori.cc/index/downloads?d=43165&v=niIzDciW
+#EXTINF:-1 group-title="音乐"    , 原子霏 Ⅰ 不想哭却有泪在流
+http://www.zuori.cc/index/downloads?d=43165&v=SdGPbOaa
+#EXTINF:-1 group-title="音乐"    , 张璇 Ⅰ 犯错
+http://www.zuori.cc/index/downloads?d=43165&v=Kj1QcPYr
+#EXTINF:-1 group-title="音乐"    , 谢金燕 Ⅰ 姐姐
+http://www.zuori.cc/index/downloads?d=43165&v=eFCiO9wO
+#EXTINF:-1 group-title="音乐"    , 翠卿 Ⅰ 千千阙歌
+http://www.zuori.cc/index/downloads?d=43165&v=JSJ96Uey
+#EXTINF:-1 group-title="音乐"    , 王杰 Ⅰ 大约在冬季
+http://www.zuori.cc/index/downloads?d=43165&v=Rhw71Q79
+#EXTINF:-1 group-title="音乐"    , 王杰 Ⅰ 忘了你忘了我
+http://www.zuori.cc/index/downloads?d=43165&v=n9a77bnd
+#EXTINF:-1 group-title="剧集"     , 01 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=m2z9G64O
+#EXTINF:-1 group-title="剧集"     , 02 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=3voRAPuu
+#EXTINF:-1 group-title="剧集"     , 03 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=OJ5in06A
+#EXTINF:-1 group-title="剧集"     , 04 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=rLVtk8Ct
+#EXTINF:-1 group-title="剧集"     , 05 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=MbqyGbJ1
+#EXTINF:-1 group-title="剧集"     , 06 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=OqxSUk18
+#EXTINF:-1 group-title="剧集"     , 07 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=pT9qlosj
+#EXTINF:-1 group-title="剧集"     , 08 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=OOSbqfk4
+#EXTINF:-1 group-title="剧集"     , 09 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=HdrH4jso
+#EXTINF:-1 group-title="剧集"     , 10 Ⅰ 东京仙履奇缘
+http://www.zuori.cc/index/downloads?d=43165&v=EAbBGjzT
+
+#EXTINF:-1 group-title="剧集"     , 01 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=VSadG5st
+#EXTINF:-1 group-title="剧集"     , 02 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=r6mMOBOX
+#EXTINF:-1 group-title="剧集"     , 03 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=XW57AfNO
+#EXTINF:-1 group-title="剧集"     , 04 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=xRMqqUCO
+#EXTINF:-1 group-title="剧集"     , 05 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=H1SlioG2
+#EXTINF:-1 group-title="剧集"     , 06 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=tRukVnCP
+#EXTINF:-1 group-title="剧集"     , 07 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=AQSgiVC8
+#EXTINF:-1 group-title="剧集"     , 08 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=ME1HofIr
+#EXTINF:-1 group-title="剧集"     , 09 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=33ScKntV
+#EXTINF:-1 group-title="剧集"     , 10 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=6kx3WtVI
+#EXTINF:-1 group-title="剧集"     , 11 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=yHM7seTO
+#EXTINF:-1 group-title="剧集"     , 12 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=YBRw8fq5
+#EXTINF:-1 group-title="剧集"     , 13 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=lMVpV0AO
+#EXTINF:-1 group-title="剧集"     , 14 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=aHTsd7zt
+#EXTINF:-1 group-title="剧集"     , 15 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=RcG2CHjp
+#EXTINF:-1 group-title="剧集"     , 16 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=Ow6ioc6Q
+#EXTINF:-1 group-title="剧集"     , 17 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=i3R6KRVK
+#EXTINF:-1 group-title="剧集"     , 18 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=Pw7pCCMA
+#EXTINF:-1 group-title="剧集"     , 19 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=5AgAQS5z
+#EXTINF:-1 group-title="剧集"     , 20 Ⅰ 武林幸运星
+http://www.zuori.cc/index/downloads?d=43165&v=JNgvlRm8
+
+#EXTINF:-1 group-title="剧集"     , 01 Ⅰ 青锋剑影
+http://www.zuori.cc/index/downloads?d=43165&v=91GsXlin
+#EXTINF:-1 group-title="剧集"     , 02 Ⅰ 青锋剑影
+http://www.zuori.cc/index/downloads?d=43165&v=kQbU7HSq
+#EXTINF:-1 group-title="剧集"     , 03 Ⅰ 青锋剑影
+http://www.zuori.cc/index/downloads?d=43165&v=96cqRsF8
+#EXTINF:-1 group-title="剧集"     , 04 Ⅰ 青锋剑影
+http://www.zuori.cc/index/downloads?d=43165&v=tJKNI6MH
+#EXTINF:-1 group-title="剧集"     , 05 Ⅰ 青锋剑影
+http://www.zuori.cc/index/downloads?d=43165&v=DfJLiy2F
+
+#EXTINF:-1 group-title="剧集"     , 01 Ⅰ 碧血洗银枪
+http://www.zuori.cc/index/downloads?d=43165&v=0QgomzM9
+#EXTINF:-1 group-title="剧集"     , 02 Ⅰ 碧血洗银枪
+http://www.zuori.cc/index/downloads?d=43165&v=KrawbU22
+#EXTINF:-1 group-title="剧集"     , 03 Ⅰ 碧血洗银枪
+http://www.zuori.cc/index/downloads?d=43165&v=ASRLje5W
+#EXTINF:-1 group-title="剧集"     , 04 Ⅰ 碧血洗银枪
+http://www.zuori.cc/index/downloads?d=43165&v=zveTy04j
+#EXTINF:-1 group-title="剧集"     , 05 Ⅰ 碧血洗银枪
+http://www.zuori.cc/index/downloads?d=43165&v=8LkC40H9
+
+#EXTINF:-1 group-title="剧集"     , 01 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=6DKVLnfC
+#EXTINF:-1 group-title="剧集"     , 02 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=NliOoTTa
+#EXTINF:-1 group-title="剧集"     , 03 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=dQTNdP61
+#EXTINF:-1 group-title="剧集"     , 04 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=dINVOBRt
+#EXTINF:-1 group-title="剧集"     , 05 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=e3mX1JLN
+#EXTINF:-1 group-title="剧集"     , 06 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=hWxU4iyr
+#EXTINF:-1 group-title="剧集"     , 07 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=GPMe6Yu0
+#EXTINF:-1 group-title="剧集"     , 08 Ⅰ 天剑绝刀
+http://www.zuori.cc/index/downloads?d=43165&v=FFuhI7DM
+
+#EXTINF:-1 group-title="剧集"     , 01 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=fwKVlFpj
+#EXTINF:-1 group-title="剧集"     , 02 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=F5DJQQeV
+#EXTINF:-1 group-title="剧集"     , 03 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=JIYpWE7o
+#EXTINF:-1 group-title="剧集"     , 04 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=j3agDlvM
+#EXTINF:-1 group-title="剧集"     , 05 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=BAb5iRjk
+#EXTINF:-1 group-title="剧集"     , 06 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=Q0YOcxOr
+#EXTINF:-1 group-title="剧集"     , 07 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=c4O6xYla
+#EXTINF:-1 group-title="剧集"     , 08 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=7vWkNYAj
+#EXTINF:-1 group-title="剧集"     , 09 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=3rwxrcov
+#EXTINF:-1 group-title="剧集"     , 10 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=nT06VxLy
+#EXTINF:-1 group-title="剧集"     , 11 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=mPIWgSMr
+#EXTINF:-1 group-title="剧集"     , 12 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=gblYggOo
+#EXTINF:-1 group-title="剧集"     , 13 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=NWYJiJlV
+#EXTINF:-1 group-title="剧集"     , 14 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=F1TjCmkx
+#EXTINF:-1 group-title="剧集"     , 15 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=KLcNids5
+#EXTINF:-1 group-title="剧集"     , 16 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=Xqy1v4Cb
+#EXTINF:-1 group-title="剧集"     , 17 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=RRXndmPl
+#EXTINF:-1 group-title="剧集"     , 18 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=noAP50lX
+#EXTINF:-1 group-title="剧集"     , 19 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=XOcyHI5q
+#EXTINF:-1 group-title="剧集"     , 20 Ⅰ 浣花洗剑录
+http://www.zuori.cc/index/downloads?d=43165&v=hdCsfPvh
+
+#EXTINF:-1 group-title="剧集"     , 01 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=nqtzAf4y
+#EXTINF:-1 group-title="剧集"     , 02 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=MnjbOoTk
+#EXTINF:-1 group-title="剧集"     , 03 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=qXSuV2rI
+#EXTINF:-1 group-title="剧集"     , 04 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=amFN4daR
+#EXTINF:-1 group-title="剧集"     , 05 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=VOqzUGcD
+#EXTINF:-1 group-title="剧集"     , 06 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=bRRlUUnb
+#EXTINF:-1 group-title="剧集"     , 07 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=Cy0PyAF0
+#EXTINF:-1 group-title="剧集"     , 08 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=TjK2nOdw
+#EXTINF:-1 group-title="剧集"     , 09 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=eMpcw8tb
+#EXTINF:-1 group-title="剧集"     , 10 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=sPQKS3Ip
+#EXTINF:-1 group-title="剧集"     , 11 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=srTYXpwO
+#EXTINF:-1 group-title="剧集"     , 12 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=Hy76RCoQ
+#EXTINF:-1 group-title="剧集"     , 13 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=nChwRtVq
+#EXTINF:-1 group-title="剧集"     , 14 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=sS8K9Utx
+#EXTINF:-1 group-title="剧集"     , 15 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=TbH61IhH
+#EXTINF:-1 group-title="剧集"     , 16 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=fExuqk7h
+#EXTINF:-1 group-title="剧集"     , 17 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=KXKQzf9F
+#EXTINF:-1 group-title="剧集"     , 18 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=UW5UaUEO
+#EXTINF:-1 group-title="剧集"     , 19 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=S1VmlPVO
+#EXTINF:-1 group-title="剧集"     , 20 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=ChWnGfGy
+#EXTINF:-1 group-title="剧集"     , 21 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=6KiqFzOm
+#EXTINF:-1 group-title="剧集"     , 22 Ⅰ 遗失的世界【第二季】
+http://www.zuori.cc/index/downloads?d=43165&v=4YEOW7uh
+#EXTINF:-1 group-title="电影"     , 活着
+https://www.zuori.cc/index/downloads?d=43165&v=tWfOtUmG
+#EXTINF:-1 group-title="电影"     , 街女
+http://www.zuori.cc/index/downloads?d=43165&v=lrSzC9wP
+#EXTINF:-1 group-title="电影"     , 跛豪
+http://www.zuori.cc/index/downloads?d=43165&v=OmnGCtRO
+#EXTINF:-1 group-title="电影"     , 力王
+http://www.zuori.cc/index/downloads?d=43165&v=t5JnVKwk
+#EXTINF:-1 group-title="电影"     , 天注定
+https://www.zuori.cc/index/downloads?d=43165&v=1AqlsYXP
+#EXTINF:-1 group-title="电影"     , 巡城马
+http://www.zuori.cc/index/downloads?d=43165&v=CPyLm3Of
+#EXTINF:-1 group-title="电影"     , 马永贞
+http://www.zuori.cc/index/downloads?d=43165&v=l4V0MW8n
+#EXTINF:-1 group-title="电影"     , 女警察
+https://www.zuori.cc/index/downloads?d=43165&v=SnEHVH7G
+#EXTINF:-1 group-title="电影"     , 妖魔道
+http://www.zuori.cc/index/downloads?d=43165&v=43jiWUvM
+#EXTINF:-1 group-title="电影"     , 失业皇帝
+http://www.zuori.cc/index/downloads?d=43165&v=jcHCIynC
+#EXTINF:-1 group-title="电影"     , 满汉全席
+http://www.zuori.cc/index/downloads?d=43165&v=Nzgjn7FW
+#EXTINF:-1 group-title="电影"     , 情逢敌手
+http://www.zuori.cc/index/downloads?d=43165&v=WGdXqifL
+#EXTINF:-1 group-title="电影"     , 极速传说
+http://www.zuori.cc/index/downloads?d=43165&v=IoQE2YPS
+#EXTINF:-1 group-title="电影"     , 杀街英雄
+http://www.zuori.cc/index/downloads?d=43165&v=HAOxJ651
+#EXTINF:-1 group-title="电影"     , 战龙在野
+http://www.zuori.cc/index/downloads?d=43165&v=Iswk7ImD
+#EXTINF:-1 group-title="电影"     , 皇家女将
+http://www.zuori.cc/index/downloads?d=43165&v=9pBWL80o
+#EXTINF:-1 group-title="电影"     , 吉屋藏娇
+http://www.zuori.cc/index/downloads?d=43165&v=lOKvml8f
+#EXTINF:-1 group-title="电影"     , 我未成年
+http://www.zuori.cc/index/downloads?d=43165&v=eclM8eEV
+#EXTINF:-1 group-title="电影"     , 金榜题名
+http://www.zuori.cc/index/downloads?d=43165&v=wHLa7hxL
+#EXTINF:-1 group-title="电影"     , 火云传奇
+http://www.zuori.cc/index/downloads?d=43165&v=bEzboK8c
+#EXTINF:-1 group-title="电影"     , 奉旨勾妖
+http://www.zuori.cc/index/downloads?d=43165&v=iBWoFndA
+#EXTINF:-1 group-title="电影"     , 小偷阿星
+http://www.zuori.cc/index/downloads?d=43165&v=2KLRORU2
+#EXTINF:-1 group-title="电影"     , 拳坛风云
+http://www.zuori.cc/index/downloads?d=43165&v=RsmV0LCy
+#EXTINF:-1 group-title="电影"     , 布衣神相
+http://www.zuori.cc/index/downloads?d=43165&v=ohwhKUwC
+#EXTINF:-1 group-title="电影"     , 炭烧凶咒
+http://www.zuori.cc/index/downloads?d=43165&v=WHB4pJT9
+#EXTINF:-1 group-title="电影"     , 英雄好汉
+http://www.zuori.cc/index/downloads?d=43165&v=JtbLx3cu
+#EXTINF:-1 group-title="电影"     , 英雄人物
+http://www.zuori.cc/index/downloads?d=43165&v=AxOjbsNX
+#EXTINF:-1 group-title="电影"     , 少林英雄榜
+http://www.zuori.cc/index/downloads?d=43165&v=mOG5iQpm
+#EXTINF:-1 group-title="电影"     , 飞侠小白龙
+http://www.zuori.cc/index/downloads?d=43165&v=3KBw5jrO
+#EXTINF:-1 group-title="电影"     , 新仙鹤神针
+http://www.zuori.cc/index/downloads?d=43165&v=9ONtisFy
+#EXTINF:-1 group-title="电影"     , 种鬼?未删减
+http://www.zuori.cc/index/downloads?d=43165&v=LYkI9MXR
+#EXTINF:-1 group-title="电影"     , 香港第一凶宅
+http://www.zuori.cc/index/downloads?d=43165&v=QIqRk5ev
+#EXTINF:-1 group-title="电影"     , 月亮星星太阳
+http://www.zuori.cc/index/downloads?d=43165&v=KkaDrDrk
+#EXTINF:-1 group-title="电影"     , 至尊计状元才
+http://www.zuori.cc/index/downloads?d=43165&v=InG97u2A
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 又一次
+http://www.zuori.cc/index/downloads?d=43165&v=x65ewivb
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 说再见
+http://www.zuori.cc/index/downloads?d=43165&v=TlDRyscJ
+#EXTINF:-1 group-title="嗨舞"     , 舞曲 Ⅰ 给我希望
+http://www.zuori.cc/index/downloads?d=43165&v=vQv8Jghp
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 极乐之地
+http://www.zuori.cc/index/downloads?d=43165&v=H8ks6Ms9
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 兔宝派对
+http://www.zuori.cc/index/downloads?d=43165&v=Cr7SkGWS
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 晃动派对
+http://www.zuori.cc/index/downloads?d=43165&v=4FYekfVm
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 热舞派对
+http://www.zuori.cc/index/downloads?d=43165&v=B851OVy4
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 自由摇摆
+http://www.zuori.cc/index/downloads?d=43165&v=FrEeSdpp
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 迷幻派对
+http://www.zuori.cc/index/downloads?d=43165&v=2s8suP4x
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 夏季音乐
+http://www.zuori.cc/index/downloads?d=43165&v=uiDVfP05
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 尼基图萨
+http://www.zuori.cc/index/downloads?d=43165&v=OWCYnMJy
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 德国童声
+http://www.zuori.cc/index/downloads?d=43165&v=IcxjnS95
+#EXTINF:-1 group-title="嗨舞"     , 嗨曲 Ⅰ 大卫巴德
+http://www.zuori.cc/index/downloads?d=43165&v=EjbLheOF
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 梦的海洋
+http://www.zuori.cc/index/downloads?d=43165&v=rgNqNrTn
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 樱桃多汁
+http://www.zuori.cc/index/downloads?d=43165&v=PeLb0VTe
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 沙漠之魂
+http://www.zuori.cc/index/downloads?d=43165&v=SLnC86fA
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 独自生活
+http://www.zuori.cc/index/downloads?d=43165&v=qh7cGgss
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 简单快乐
+http://www.zuori.cc/index/downloads?d=43165&v=ePpKWpqn
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 美丽的人说
+http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 黑色比基尼
+http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 调情俱乐部
+http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 比基尼派对
+http://www.zuori.cc/index/downloads?d=43165&v=OvuRosJO
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 尬舞俱乐部
+http://www.zuori.cc/index/downloads?d=43165&v=6coAxHVF
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 慕尼黑聚会
+http://www.zuori.cc/index/downloads?d=43165&v=54M0khyO
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 两姐妹领舞
+http://www.zuori.cc/index/downloads?d=43165&v=4xHguSxl
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 迪斯科舞曲
+http://www.zuori.cc/index/downloads?d=43165&v=sVUrPAkF
+#EXTINF:-1 group-title="嗨舞"     , 电音 Ⅰ 做我的爱人
+http://www.zuori.cc/index/downloads?d=43165&v=RaQAd2ef
+#EXTINF:-1 group-title="嗨舞"     , 电音 Ⅰ 最好的一面
+http://www.zuori.cc/index/downloads?d=43165&v=kJOLL7qs
+#EXTINF:-1 group-title="嗨舞"     , 派对 Ⅰ 麦王滑板车
+http://www.zuori.cc/index/downloads?d=43165&v=f4Mf7Sou
+#EXTINF:-1 group-title="嗨舞"     , 舞曲 Ⅰ 大家都跳舞
+http://www.zuori.cc/index/downloads?d=43165&v=VdI9HOwH
+#EXTINF:-1 group-title="嗨舞"     , 舞曲 Ⅰ 极速鬼步舞
+http://www.zuori.cc/index/downloads?d=43165&v=VSUEF0Sq
+#EXTINF:-1 group-title="嗨舞"     , 舞曲 Ⅰ 再一次鬼步舞
+http://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
+#EXTINF:-1 group-title="嗨舞"     , 混音 Ⅰ 温柔的抚摸我
+http://www.zuori.cc/index/downloads?d=43165&v=nO3nU3vC
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 俱乐部的一天
+http://www.zuori.cc/index/downloads?d=43165&v=v2cu36ks
+#EXTINF:-1 group-title="嗨舞"     , 夜店 Ⅰ 狂野的俱乐部
+http://www.zuori.cc/index/downloads?d=43165&v=I7plIu2a
+#EXTINF:-1 group-title="嗨舞"     , 派对 Ⅰ 我们如何聚会
+http://www.zuori.cc/index/downloads?d=43165&v=GphYWFNW
+#EXTINF:-1 group-title="嗨舞"     , 电音 Ⅰ 永远在你身边
+http://www.zuori.cc/index/downloads?d=43165&v=DqPafWf2
+#EXTINF:-1 group-title="嗨舞"     , 电音 Ⅰ 美女沙滩大海
+http://www.zuori.cc/index/downloads?d=43165&v=h8SKIzR4
+#EXTINF:-1 group-title="嗨舞"     , 百大DJ Ⅰ 活在黑夜里
+http://www.zuori.cc/index/downloads?d=43165&v=LNnplfDT
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 泰国迷你直通车
+http://www.zuori.cc/index/downloads?d=43165&v=lpWRRLUD
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 泰国比基尼舞蹈
+http://www.zuori.cc/index/downloads?d=43165&v=U9kkGlvv
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 泰国跳舞家族聚会
+http://www.zuori.cc/index/downloads?d=43165&v=HXPFyvSW
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 黎明前的泰国美眉
+http://www.zuori.cc/index/downloads?d=43165&v=vJeUyqpy
+#EXTINF:-1 group-title="嗨舞"     , 舞曲 Ⅰ 风靡一时的鬼步舞
+http://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 泰国三美女比基尼
+http://www.zuori.cc/index/downloads?d=43165&v=kt81QJUJ
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 泰国超甜美丽模特
+http://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
+#EXTINF:-1 group-title="嗨舞"     , 派对 Ⅰ 迈阿密音乐节克鲁斯
+http://www.zuori.cc/index/downloads?d=43165&v=XEX5F0J1
+#EXTINF:-1 group-title="嗨舞"     , 走秀 Ⅰ 祝贺男人比基尼美女
+http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 泰国波动比基尼美女
+http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
+#EXTINF:-1 group-title="嗨舞"     , 车舞 Ⅰ 泰国郊郎蓝色比基尼美女
+http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
+#EXTINF:-1 group-title="翻Q"       , TVB 翡翠亚洲
+http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
+#EXTINF:-1 group-title="翻Q"       , TVB 翡翠亚洲
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 group-title="翻Q"       , HKC 开放电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="翻Q"       , NOW 体育频道
+https://hwebcast.now.com/nowstreamer/getMediaLivePlaylist.m3u8?&clientid=null&loginid=null&productid=webch630_4&viewtype=F&orderid=null&machineid=null&service_type=channel&lang_code=&np_id=null&token=DBF50AB651A4F6446B1F25F3CE5CBFA4FE217AD9C63426ED8D6C2365FEE21849C8362D4CE375DD7626A7FB326E5D0637B8513EF9DF1F74BBD7F16C5A80E5F9A4B2FFAF9E5CC52A06CF83D3388E5C14A3D91F00637745B1DB1D6520E188730F271DC6C5F7CC867BA61BC45DD29D748B0EAD309A6970C209B58CA25ABD4E4A4498610C8DC70BF371C4CEE3DAAA9BC13C67520D02FBDDCCCDAED2CCCDA04718119B199186910AD4B25E3FF06B77A0E59F9152833004EBCE55E9ACA3BCCF327E40C0C343383B70AD60A07C9CABAFC3A2E2853EA27E9B5B9CDDD924E11F24D7D07AC103052EBB966860D6CF8F208156C23D05&streamname=webch630_4
+#EXTINF:-1 group-title="翻Q"       , 澳视卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="翻Q"       , 澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="翻Q"       , 天映频道
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+#EXTINF:-1 group-title="翻Q"       , 中视无线
+http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="翻Q"       , 华视无线
+http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 group-title="翻Q"       , 中天综合
+http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 group-title="翻Q"       , 中天新闻
+http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 group-title="翻Q"       , 东森新闻
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="翻Q"       , 天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 group-title="翻Q"       , 动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 group-title="翻Q"       , 八大综合
+http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 group-title="翻Q"       , 华纳电影
+http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="翻Q"       , 福克斯电影台
+http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
