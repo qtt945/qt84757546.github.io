@@ -189,124 +189,36 @@ http://nclive.grtn.cn/4K/sd/live.m3u8
 http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
 #EXTINF:-1 group-title="卫视", 威海海洋
 http://l2.weihai.tv:8081/hls/haiyangpd.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 01
-http://wshls.butel.com/live/4387.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 01
-https://116.77.72.195/streams/d/cctv1a/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 01
-http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 01
-http://l1.weihai.tv:8081/hls/3bjRUVNYwi.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 01
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 01
-http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 02
-https://116.77.72.195/streams/d/cctv2/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 02
-http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8?wsSecret=0f883c8649a6b883016f6408d7c80f9d&wsTime=1509347397
-#EXTINF:-1 group-title="央视" , CCTV 02
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 02
-http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 02
-http://223.110.241.203:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
-#EXTINF:-1 group-title="央视" , CCTV 03
-https://116.77.72.195/streams/d/cctv3/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 03
-http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i
-#EXTINF:-1 group-title="央视" , CCTV 03
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228563/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 03
-http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 03
-http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 04
-http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 04
-http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/index.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 04
-http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 04
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229319/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 05
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228570/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 05
-https://116.77.72.195/streams/d/cctv5/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 05
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 group-title="央视" , CCTV 05
-http://221.6.85.150:9000/live/cctv5_800/cctv5_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 06
-https://116.77.72.195/streams/d/cctv6/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 06
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228566/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 06
-http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 07
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228507/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 07
-https://116.77.72.195/streams/d/cctv7/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 07
-http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 08
-https://116.77.72.195/streams/d/cctv8/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 08
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228569/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 08
-http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 09
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228510/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 09
-https://116.77.72.195/streams/d/cctv9/playlist.m3u8http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 09
-http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 10
-http://223.110.241.203:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-#EXTINF:-1 group-title="央视" , CCTV 10
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228513/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 10
-https://116.77.72.195/streams/d/cctv10/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 10
-http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 11
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228297/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 11
-https://116.77.72.195/streams/d/cctv11/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 11
-http://221.6.85.150:9000/live/cctv11_800/cctv11_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 12
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228485/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 12
-https://116.77.72.195/streams/d/cctv12/playlist.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 12
-http://221.6.85.150:9000/live/cctv12_800/cctv12_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 13
-http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 13
-http://stream4.jlntv.cn/cctv13/sd/live.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 13
-http://liveali.ifeng.com/live/CCTV.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 13
-http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 13
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228266/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 13
-http://117.169.120.140:8080/live/cctv-13/.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 14
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228488/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 14
-http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 14
-http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 15
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="央视" , CCTV 15
-http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
-#EXTINF:-1 group-title="央视" , CCTV 15
-http://223.82.250.72/live/cctv-15/1.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV1
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8?
+#EXTINF:-1 group-title="央视" ,CCTV2
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv2_2_hd.m3u8?
+#EXTINF:-1 group-title="央视" ,CCTV3
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV4
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV5
+http://cctv5ksw.v.kcdnvip.com/live/cctv5_1/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV6
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV7
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV8
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV9
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvjilu_2_hd.m3u8?
+#EXTINF:-1 group-title="央视" ,CCTV10
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV11
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV12
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV13
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV-14
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv14_2/index.m3u8
+#EXTINF:-1 group-title="央视" ,CCTV-15
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 group-title="央视" , CCTV 17
 http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视" , CCTV 17
