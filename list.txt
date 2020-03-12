@@ -163,6 +163,22 @@ CCTV17,https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
 重庆卫视高清,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
+湖北,#genre#
+湖北◆,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbzhhd
+湖北 Ⅰ 湖北综合台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbzhhd
+湖北 Ⅰ 湖北公共台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbgghd
+湖北 Ⅰ 湖北经视台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbjshd
+湖北 Ⅰ 武汉综合台，http://stream.appwuhan.com/1tzb/sd/live.m3u8
+湖北 Ⅰ 武汉文体台,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+湖北 Ⅰ 荆门综合台,http://jingmen.live.cjyun.org/video/s10101-jmnews.m3u8#http://live.jmtv.com.cn/xwzh/sd/live.m3u8
+湖北 Ⅰ 荆门公共台,http://live.jmtv.com.cn/ngpd/sd/live.m3u8#http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8
+湖北 Ⅰ 宜昌综合台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=yichangzh
+湖北 Ⅰ 襄阳综合台,http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+湖北 Ⅰ 襄阳公共台,http://xiangyang.live.cjyun.org/video/s10125-education_hd.m3u8
+湖北 Ⅰ 随州综合台,http://suizhou.source.cjyun.org/video/s10145-szzhpd.m3u8
+湖北 Ⅰ 随州农村台,http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
+湖北 Ⅰ 神龙架电视,http://shennongjia.live.cjyun.org/video/s10144-SNJ-live.m3u8
+
 教育频道,#genre#
 CETV1,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
 CETV2,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
@@ -825,20 +841,6 @@ CETV4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 四川 Ⅰ 泸州科技台,http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel5/playlist.m3u8
 四川 Ⅰ 内江综合台,http://njzb.scnj.tv:8091/live/njtv1.m3u8
 四川 Ⅰ 内江公共台,http://njzb.scnj.tv:8091/live/njtv2.m3u8
-湖北◆,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbzhhd
-湖北 Ⅰ 湖北综合台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbzhhd
-湖北 Ⅰ 湖北公共台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbgghd
-湖北 Ⅰ 湖北经视台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=hbjshd
-湖北 Ⅰ 武汉综合台，http://stream.appwuhan.com/1tzb/sd/live.m3u8
-湖北 Ⅰ 武汉文体台,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-湖北 Ⅰ 荆门综合台,http://jingmen.live.cjyun.org/video/s10101-jmnews.m3u8#http://live.jmtv.com.cn/xwzh/sd/live.m3u8
-湖北 Ⅰ 荆门公共台,http://live.jmtv.com.cn/ngpd/sd/live.m3u8#http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8
-湖北 Ⅰ 宜昌综合台,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=yichangzh
-湖北 Ⅰ 襄阳综合台,http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
-湖北 Ⅰ 襄阳公共台,http://xiangyang.live.cjyun.org/video/s10125-education_hd.m3u8
-湖北 Ⅰ 随州综合台,http://suizhou.source.cjyun.org/video/s10145-szzhpd.m3u8
-湖北 Ⅰ 随州农村台,http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
-湖北 Ⅰ 神龙架电视,http://shennongjia.live.cjyun.org/video/s10144-SNJ-live.m3u8
 福建◆,http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
 福建 Ⅰ 福建综合台,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjzh
 福建 Ⅰ 泉州综合台,http://live.qztvxwgj.com/live/news.m3u8
