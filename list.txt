@@ -1183,36 +1183,40 @@ TVB J2,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd4&token=1234567&
 有线603,rtmp://112.30.135.40/live-zb.nanhailong.com/live/ch215
 
 湾湾   ,#genre#
-TVB J2,http://hzyhjg.cc/cs/gat/tvbj2.php
+凤凰中文,http://%6c%69%76%65%61%6c%69%2e%69%66%65%6e%67%2e%63%6f%6d/%6c%69%76%65/%46%48%5a%57%2e%6d%33%75%38#http://live.centerch.com/fhzw.m3u8#http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+凤凰资讯,http://%6c%69%76%65%61%6c%69%2e%69%66%65%6e%67%2e%63%6f%6d/%6c%69%76%65/%46%48%5a%58%2e%6d%33%75%38#%68%74%74%70%73://%31%31%36%2e%37%37%2e%37%32%2e%31%39%35/%73%74%72%65%61%6d%73/%64/%66%68%7a%78/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38#http://live.centerch.com/fhzx.m3u8#https://116.77.72.195/streams/d/fhzx/playlist.m3u8#http://103.229.124.14/dl/h0k100.php?id=3
+凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://ivi.bupt.edu.cn/livetv/fhdy
+香港卫视,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
+香港hks,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+莲花卫视,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+有线新闻,,ttps://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+无线翡翠,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd2&token=1234567&u=85402369
+无线明珠,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd3&token=1234567&u=85402369#%68%74%74%70%73://%31%31%36%2e%37%37%2e%37%32%2e%31%39%35/%73%74%72%65%61%6d%73/%64/%6d%7a%74/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+无线新闻,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd1&token=1234567&u=85402369
+澳视卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
+澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+TVB J2,http://proxy.dianshizaixian.com/live/getlive2.php?id=xgpd4&token=1234567&u=85402369
+有线603,rtmp://112.30.135.40/live-zb.nanhailong.com/live/ch215
 TVB J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
-无线新闻,http://hzyhjg.cc/cs/gat/wxxw.php
 无线新闻,http://hzyhjg.cc/cs/gat/wxxw-2.php
-明珠台,http://hzyhjg.cc/cs/gat/mzt.php
 明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
 viu tv,http://hzyhjg.cc/cs/gat/viu tv.php
-无线财经,http://hzyhjg.cc/cs/gat/wxcjzx.php
 有线新闻,http://hzyhjg.cc/cs/gat/yxxw.php
 有线603,http://hzyhjg.cc/cs/gat/yx603.php
 中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
 东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
-中视,http://hzyhjg.cc/cs/gat/zs.php
-台视,http://hzyhjg.cc/cs/gat/ts.php
-民视,http://hzyhjg.cc/cs/gat/ms.php
 年代新闻,http://hzyhjg.cc/cs/gat/ndxw.php
 非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
-三立台湾,http://hzyhjg.cc/cs/gat/sltwt.php
-RHK31,http://hzyhjg.cc/cs/gat/rhk31.php
-HBO HD,http://hzyhjg.cc/cs/gat/hbo.php
 中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 年代新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
-星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 中天新闻,http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天亚洲台,http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-东森新闻,http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 中视无线,http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视无线,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
@@ -1233,7 +1237,6 @@ TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 卫视卡视,http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
 大爱一台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
 大爱二台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
-东森新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
 中天新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
 中天综合,http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
 中天娱乐,http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
@@ -1259,11 +1262,11 @@ Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 中天综合台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
 中天娱乐台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
 日本 Ⅰ 天气频道,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本 Ⅰ 全天新闻,,ttps://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 日本 Ⅰ 声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
 日本 Ⅰ 日本购物,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
-日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
+日本 Ⅰ 宝石GSTV,,ttps://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
+日本 Ⅰ 宝石GSTV,,ttps://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
 日本 Ⅰ TBS NEWS,http://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 日本 Ⅰ WOWOWO 电影,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 韩国 Ⅰ WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
@@ -1274,18 +1277,18 @@ Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 韩国 Ⅰ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩国 Ⅰ KTV 韩国电视,http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
 韩国 Ⅰ EBS 儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-韩国 Ⅰ SBS 星级频道,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-韩国 Ⅰ SBS 影视频道,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+韩国 Ⅰ SBS 星级频道,,ttps://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+韩国 Ⅰ SBS 影视频道,,ttps://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 韩国 Ⅰ YTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 韩国 Ⅰ 阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国 Ⅰ 阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 新马 Ⅰ 新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新马 Ⅰ 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+新马 Ⅰ 亚洲新闻,,ttps://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 新马 Ⅰ 朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 越南 Ⅰ 越南人民报,http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 越南 Ⅰ 越南人民报,http://vietcago.net/vstv/thnd.m3u8
-越南 Ⅰ 越南人民报,https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
+泰国 Ⅰ NBT 曼谷频道,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 泰国 Ⅰ 泰国公共台,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 埃及 Ⅰ AVA 音乐频道,http://51.15.236.137/hls/stream.m3u8
 印度 Ⅰ 音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
@@ -1294,11 +1297,11 @@ Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 美国 Ⅰ 狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 美国 Ⅰ 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美国 Ⅰ 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-美国 Ⅰ 美国之音,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+美国 Ⅰ 美国之音,,ttps://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 美国 Ⅰ 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 美国 Ⅰ 布兰奇电视,http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 美国 Ⅰ 彭博财经台,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国 Ⅰ FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+美国 Ⅰ FOX 体育新闻,,ttps://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 美国 Ⅰ MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 法国 Ⅰ 巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 法国 Ⅰ 热带音乐,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
@@ -1306,7 +1309,6 @@ Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 法国 Ⅰ 第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 法国 Ⅰ 法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
 法国 Ⅰ 法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-卡塔尔 Ⅰ 半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 卡塔尔 Ⅰ 半岛新闻,http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 卡塔尔 Ⅰ 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 阿拉伯 Ⅰ 中国环球,http://live.cgtn.com/1000a/prog_index.m3u8
@@ -1327,11 +1329,11 @@ Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 乌克兰 Ⅰ M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
 西班牙 Ⅰ 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 西班牙 Ⅰ 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
-西班牙 Ⅰ 西班牙四台,https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-西班牙 Ⅰ 西班牙五台,https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-西班牙 Ⅰ 神性电视台,https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-西班牙 Ⅰ 活力电视台,https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
-西班牙 Ⅰ 啵嘤卡通台,https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
+西班牙 Ⅰ 西班牙四台,,ttps://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+西班牙 Ⅰ 西班牙五台,,ttps://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+西班牙 Ⅰ 神性电视台,,ttps://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+西班牙 Ⅰ 活力电视台,,ttps://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
+西班牙 Ⅰ 啵嘤卡通台,,ttps://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8
 意大利 Ⅰ Rai 吞咽,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 意大利 Ⅰ Rai 幼幼,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 意大利 Ⅰ Rai 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -1340,32 +1342,35 @@ Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 意大利 Ⅰ V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
 墨西哥 Ⅰ 墨西哥电视,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 蒙古国 Ⅰ MNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
+印度 Ⅰ 音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
+埃及 Ⅰ AVA 音乐频道,http://51.15.236.137/hls/stream.m3u8斯诺伐克 Ⅰ J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
 斯诺伐克 Ⅰ J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
 斯洛伐克 Ⅰ WAU 频道,http://nn2.joj.sk/hls/wau-540.m3u8
-D Music,https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v3a1/mono.m3u8
-TV3 HD,https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v3a1/mono.m3u8
-Town TV Full HD,https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v3a1/mono.m3u8
-CTV8,https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v3a1/mono.m3u8
-Nice TV,https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v3a1/mono.m3u8
-Apsara TV,https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v3a1/mono.m3u8
-TV9 HDTV,https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v3a1/mono.m3u8
-TV5,https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v3a1/mono.m3u8
-BTV News,https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v3a1/mono.m3u8
-ETV,https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v3a1/mono.m3u8
-Bayon TV,https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v3a1/mono.m3u8
-CNC News,https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v3a1/mono.m3u8
-MyTV,https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v3a1/mono.m3u8
-CTN,https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v3a1/mono.m3u8
-Rasmey Hang Meas HDTV,https://1363455353.rsc.cdn77.org/LS-50041-SIN-4/tracks-v3a1/mono.m3u8
-TVK,https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v3a1/mono.m3u8
-PNN,https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v3a1/mono.m3u8
-Hang Meas HDTV,https://1145067750.rsc.cdn77.org/LS-50041-SIN-1/tracks-v1a1/mono.m3u8
-Bull & Chicken Showtime,https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v3a1/mono.m3u8
-Thai Voice TV,https://1808558851.rsc.cdn77.org/LS-50041-SIN-24/tracks-v3a1/mono.m3u8
-Thai One,https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v3a1/mono.m3u8
-Thai TV7,https://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v3a1/mono.m3u8
-Thai TV5,https://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v3a1/mono.m3u8
-Thai TV3,https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v3a1/mono.m3u8
+
+D Music,,ttps://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v3a1/mono.m3u8
+TV3 HD,,ttps://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v3a1/mono.m3u8
+Town TV Full HD,,ttps://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v3a1/mono.m3u8
+CTV8,,ttps://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v3a1/mono.m3u8
+Nice TV,,ttps://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v3a1/mono.m3u8
+Apsara TV,,ttps://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v3a1/mono.m3u8
+TV9 HDTV,,ttps://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v3a1/mono.m3u8
+TV5,,ttps://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v3a1/mono.m3u8
+BTV News,,ttps://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v3a1/mono.m3u8
+ETV,,ttps://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v3a1/mono.m3u8
+Bayon TV,,ttps://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v3a1/mono.m3u8
+CNC News,,ttps://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v3a1/mono.m3u8
+MyTV,,ttps://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v3a1/mono.m3u8
+CTN,,ttps://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v3a1/mono.m3u8
+Rasmey Hang Meas HDTV,,ttps://1363455353.rsc.cdn77.org/LS-50041-SIN-4/tracks-v3a1/mono.m3u8
+TVK,,ttps://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v3a1/mono.m3u8
+PNN,,ttps://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v3a1/mono.m3u8
+Hang Meas HDTV,,ttps://1145067750.rsc.cdn77.org/LS-50041-SIN-1/tracks-v1a1/mono.m3u8
+Bull & Chicken Showtime,,ttps://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v3a1/mono.m3u8
+Thai Voice TV,,ttps://1808558851.rsc.cdn77.org/LS-50041-SIN-24/tracks-v3a1/mono.m3u8
+Thai One,,ttps://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v3a1/mono.m3u8
+Thai TV7,,ttps://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v3a1/mono.m3u8
+Thai TV5,,ttps://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v3a1/mono.m3u8
+Thai TV3,,ttps://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v3a1/mono.m3u8
 
 iHOT  ,#genre#
 iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
