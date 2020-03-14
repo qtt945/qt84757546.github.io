@@ -1,93 +1,95 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视卫视",CCTV-1蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-1
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-2蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-2
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-3蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-3
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-4蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-4
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-5蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-5
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205102.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-5+蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-6蓝光
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-7蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-5+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000136.m3u8
+#http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 group-title="央视卫视",CCTV-7
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-8蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-8
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203902.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-9蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-9
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-10蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-10
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-11蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-11
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-12蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-12
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-13蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-13
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204602.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-14蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-14
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-15蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-15
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 group-title="央视卫视",CCTV-17蓝光
+#EXTINF:-1 group-title="央视卫视",CCTV-17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1 group-title="央视卫视",北京卫视蓝光
+#EXTINF:-1 group-title="央视卫视",北京卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-#EXTINF:-1 group-title="央视卫视",天津卫视蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1 group-title="央视卫视",东方卫视蓝光
+#EXTINF:-1 group-title="央视卫视",天津卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 group-title="央视卫视",东方卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1 group-title="央视卫视",湖南卫视蓝光
+#EXTINF:-1 group-title="央视卫视",湖南卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-#EXTINF:-1 group-title="央视卫视",浙江卫视蓝光
+#EXTINF:-1 group-title="央视卫视",浙江卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 group-title="央视卫视",江苏卫视蓝光
+#EXTINF:-1 group-title="央视卫视",江苏卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 group-title="央视卫视",山东卫视蓝光
+#EXTINF:-1 group-title="央视卫视",山东卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-#EXTINF:-1 group-title="央视卫视",湖北卫视蓝光
+#EXTINF:-1 group-title="央视卫视",湖北卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
-#EXTINF:-1 group-title="央视卫视",安徽卫视高清
+#EXTINF:-1 group-title="央视卫视",安徽卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-#EXTINF:-1 group-title="央视卫视",广东卫视蓝光
+#EXTINF:-1 group-title="央视卫视",广东卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
-#EXTINF:-1 group-title="央视卫视",广西卫视蓝光
+#EXTINF:-1 group-title="央视卫视",广西卫视
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/guangxi_2_hd.m3u8
-#EXTINF:-1 group-title="央视卫视",深圳卫视蓝光
+#EXTINF:-1 group-title="央视卫视",深圳卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-#EXTINF:-1 group-title="央视卫视",辽宁卫视蓝光
+#EXTINF:-1 group-title="央视卫视",辽宁卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225947/1.m3u8
-#EXTINF:-1 group-title="央视卫视",龙江卫视蓝光
+#EXTINF:-1 group-title="央视卫视",龙江卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 group-title="央视卫视",吉林卫视蓝光
+#EXTINF:-1 group-title="央视卫视",吉林卫视
 http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8
-#EXTINF:-1 group-title="央视卫视",江西卫视蓝光
+#EXTINF:-1 group-title="央视卫视",江西卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-#EXTINF:-1 group-title="央视卫视",四川卫视蓝光
+#EXTINF:-1 group-title="央视卫视",四川卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
-#EXTINF:-1 group-title="央视卫视",重庆卫视蓝光
+#EXTINF:-1 group-title="央视卫视",重庆卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 group-title="央视卫视",厦门卫视蓝光
+#EXTINF:-1 group-title="央视卫视",厦门卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 group-title="央视卫视",甘肃卫视高清
+#EXTINF:-1 group-title="央视卫视",甘肃卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 group-title="央视卫视",青海卫视高清
+#EXTINF:-1 group-title="央视卫视",青海卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 group-title="央视卫视",山西卫视高清
+#EXTINF:-1 group-title="央视卫视",山西卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 group-title="央视卫视",云南卫视高清
+#EXTINF:-1 group-title="央视卫视",云南卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
-#EXTINF:-1 group-title="央视卫视",陕西卫视高清
+#EXTINF:-1 group-title="央视卫视",陕西卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 group-title="央视卫视",宁夏卫视高清
+#EXTINF:-1 group-title="央视卫视",宁夏卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-#EXTINF:-1 group-title="央视卫视",内蒙卫视高清
+#EXTINF:-1 group-title="央视卫视",内蒙卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 group-title="央视卫视",新疆卫视高清
+#EXTINF:-1 group-title="央视卫视",新疆卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="央视卫视",西藏卫视高清
+#EXTINF:-1 group-title="央视卫视",西藏卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="疫情",新冠状病毒科普讲座
 https://charge.zuoyebang.cc/record_eafdda4090346101bb9c338fc15d4561.mp4
@@ -940,40 +942,42 @@ http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/ningxia_2_hd.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/xinjiang_2_hd.m3u8
 #EXTINF:-1 group-title="标清节目",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1 group-title="标清节目",北京卫视高清
+#EXTINF:-1 group-title="标清节目",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 group-title="标清节目",北京文艺高清
+#EXTINF:-1 group-title="标清节目",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="标清节目",北京纪实高清
+#EXTINF:-1 group-title="标清节目",北京纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 group-title="标清节目",湖南卫视高清
+#EXTINF:-1 group-title="标清节目",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 group-title="标清节目",浙江卫视高清
+#EXTINF:-1 group-title="标清节目",浙江卫视
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 group-title="标清节目",江苏卫视高清
+#EXTINF:-1 group-title="标清节目",江苏卫视
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 group-title="标清节目",东方卫视高清
+#EXTINF:-1 group-title="标清节目",东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 group-title="标清节目",安徽卫视高清
+#EXTINF:-1 group-title="标清节目",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 group-title="标清节目",黑龙江卫视高清
+#EXTINF:-1 group-title="标清节目",黑龙江卫视
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 group-title="标清节目",辽宁卫视高清
+#EXTINF:-1 group-title="标清节目",辽宁卫视
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 group-title="标清节目",深圳卫视高清
+#EXTINF:-1 group-title="标清节目",深圳卫视
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 group-title="标清节目",广东卫视高清
+#EXTINF:-1 group-title="标清节目",广东卫视
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 group-title="标清节目",天津卫视高清
+#EXTINF:-1 group-title="标清节目",天津卫视
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 group-title="标清节目",湖北卫视高清
+#EXTINF:-1 group-title="标清节目",湖北卫视
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-title="标清节目",山东卫视高清
+#EXTINF:-1 group-title="标清节目",山东卫视
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 group-title="标清节目",重庆卫视高清
+#EXTINF:-1 group-title="标清节目",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 group-title="标清节目",CHC高清电影
+#EXTINF:-1 group-title="标清节目",CHC电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="标清节目",CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD.m3u8
 #EXTINF:-1 group-title="移动专区",CCTV1HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228104/index.m3u8
 #EXTINF:-1 group-title="移动专区",CCTV2HD
@@ -1150,7 +1154,7 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000159.m3u8
 #EXTINF:-1 group-title="湖北有线",四川卫视HD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000187.m3u8
-#EXTINF:-1 group-title="湖北有线",高清动画HD
+#EXTINF:-1 group-title="湖北有线",动画HD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000193.m3u8
 #EXTINF:-1 group-title="湖北有线",武汉新闻综合HD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000215.m3u8
@@ -1160,7 +1164,7 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000165.m3u8
 #EXTINF:-1 group-title="湖北有线",江西卫视HD
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000173.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV5高清
+#EXTINF:-1 group-title="湖南移动",CCTV5
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:-1 group-title="湖南移动",CCTV-6HD
 http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
@@ -1198,23 +1202,23 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="湖南移动",凤凰中文HD
 http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV1高清1
+#EXTINF:-1 group-title="湖南移动",CCTV11
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV1高清2
+#EXTINF:-1 group-title="湖南移动",CCTV12
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227462/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV1高清3
+#EXTINF:-1 group-title="湖南移动",CCTV13
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226998/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV3高清1
+#EXTINF:-1 group-title="湖南移动",CCTV31
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8
 #EXTINF:-1 group-title="湖南移动",CCTV4
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225781/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV5高清
+#EXTINF:-1 group-title="湖南移动",CCTV5
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV6高清1
+#EXTINF:-1 group-title="湖南移动",CCTV61
 http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV6高清2
+#EXTINF:-1 group-title="湖南移动",CCTV62
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
-#EXTINF:-1 group-title="湖南移动",CCTV6高清3
+#EXTINF:-1 group-title="湖南移动",CCTV63
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
 #EXTINF:-1 group-title="湖南移动",CCTV8
 http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225866/index.m3u8
@@ -1700,7 +1704,7 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fs
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=012&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 group-title="广东电信",凤凰卫视中文
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 group-title="广东电信",CCTV13新闻(高清)
+#EXTINF:-1 group-title="广东电信",CCTV13新闻()
 http://180.149.148.171:1936/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="广东电信",广东珠江频道
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
@@ -3684,6 +3688,38 @@ http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
 http://videotiantian.gslawyerunion.com/20200209/96Vlt5jX/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
 #EXTINF:-1 group-title="电影频道",周星驰
 http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",龙华电影
+http://ms006.happytv.com.tw/live/pK2PLaAx0O6ouIoL/index.m3u8
+#EXTINF:-1 group-title="电影频道",黑莓电影
+http://39.135.32.143:6610/000000001000/8785669936177902664/1.m3u8?
+#EXTINF:-1 group-title="电影频道",峨眉电影HD
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="电影频道",湖南潇湘电影HD
+http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+#EXTINF:-1 group-title="电影频道",好莱坞电影（解码HW+）
+http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 group-title="电影频道",香港老电影
+http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",成龙
+http://47.240.60.73/migu.php?id=639528181
+#EXTINF:-1 group-title="电影频道",吴京
+http://47.240.60.73/migu.php?id=625681368
+#EXTINF:-1 group-title="电影频道",葛优
+http://47.240.60.73/migu.php?id=659315456
+#EXTINF:-1 group-title="电影频道",刘德华
+http://47.240.60.73/migu.php?id=659315648
+#EXTINF:-1 group-title="电影频道",古天乐
+http://47.240.60.73/migu.php?id=627198610
+#EXTINF:-1 group-title="电影频道",港片女神
+http://aldirect.rtmp.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",李连杰
+http://al.rtmp.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="电影频道",黄渤
+http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="电影频道",沈腾
+http://aldirect.rtmp.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="电影频道",徐峥
+http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="电影频道",憨豆特工3
 https://zk.wb699.com/2018/12/22/ffrZIFvvmA4AxSaW/playlist.m3u8
 #EXTINF:-1 group-title="华数频道",华数TV-01
@@ -3976,101 +4012,101 @@ http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.m
 http://220.194.238.104/13/y/c/k/c/yckcjlqfbusmaeslsffhfvajlmxoqt/hd.yinyuetai.com/21D6016E026639F9174363E4B2EB78AC.mp4?sc=7c7e0152a3a80191
 #EXTINF:-1 group-title="音乐",乔玲二 Ⅰ 你走进了我的心房
 http://220.194.238.108/13/t/k/c/c/tkccjkpcpjtpdkcqvwbfznzhrtezsa/hc.yinyuetai.com/1E57016ABB574354709C08D37DD47091.mp4
-#EXTINF:-1 group-title="CR18+",日韩高清1
+#EXTINF:-1 group-title="CR18+",日韩1
 https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清2
+#EXTINF:-1 group-title="CR18+",日韩2
 https://www.800-cdn.com/20191104/BmPJsJib/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清3
+#EXTINF:-1 group-title="CR18+",日韩3
 https://www.800-cdn.com/20191104/FOYD2Arr/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清4
+#EXTINF:-1 group-title="CR18+",日韩4
 https://www.800-cdn.com/20191104/xWsSpVkx/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清5
+#EXTINF:-1 group-title="CR18+",日韩5
 https://www.800-cdn.com/20191104/QLNa0Ar4/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清6
+#EXTINF:-1 group-title="CR18+",日韩6
 https://www.800-cdn.com/20191104/1NVic5n6/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清7
+#EXTINF:-1 group-title="CR18+",日韩7
 https://www.800-cdn.com/20191104/mxUrCin3/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清8
+#EXTINF:-1 group-title="CR18+",日韩8
 https://www.800-cdn.com/20191104/gfXL8zE8/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清9
+#EXTINF:-1 group-title="CR18+",日韩9
 https://www.800-cdn.com/20191104/PSnzMnZd/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清10
+#EXTINF:-1 group-title="CR18+",日韩10
 https://www.800-cdn.com/20191104/lL8NPXx2/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清11
+#EXTINF:-1 group-title="CR18+",日韩11
 https://www.800-cdn.com/20191104/y0KFfsPy/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清12
+#EXTINF:-1 group-title="CR18+",日韩12
 https://www.800-cdn.com/20191104/WbOhWHnk/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清13
+#EXTINF:-1 group-title="CR18+",日韩13
 https://www.800-cdn.com/20191027/R87kAR0L/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清14
+#EXTINF:-1 group-title="CR18+",日韩14
 https://www.800-cdn.com/20191027/RBJZ7rSf/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清15
+#EXTINF:-1 group-title="CR18+",日韩15
 https://www.800-cdn.com/20191027/4sGRBas8/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清16
+#EXTINF:-1 group-title="CR18+",日韩16
 https://www.800-cdn.com/20191027/f6eNa800/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清17
+#EXTINF:-1 group-title="CR18+",日韩17
 https://www.800-cdn.com/20191027/uAH7rRu4/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清18
+#EXTINF:-1 group-title="CR18+",日韩18
 https://www.800-cdn.com/20191027/QAIdDBmi/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清19
+#EXTINF:-1 group-title="CR18+",日韩19
 https://www.800-cdn.com/20191027/5X3C0amn/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清20
+#EXTINF:-1 group-title="CR18+",日韩20
 https://www.800-cdn.com/20191027/ZKXHEQyF/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清21
+#EXTINF:-1 group-title="CR18+",日韩21
 https://www.800-cdn.com/20191027/hqEHcPYy/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清22
+#EXTINF:-1 group-title="CR18+",日韩22
 https://www.800-cdn.com/20191027/9NOUhwRt/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清23
+#EXTINF:-1 group-title="CR18+",日韩23
 https://www.800-cdn.com/20191027/bYH5tZAI/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清24
+#EXTINF:-1 group-title="CR18+",日韩24
 https://www.800-cdn.com/20191027/2nvgyYWH/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清25
+#EXTINF:-1 group-title="CR18+",日韩25
 https://www.800-cdn.com/20191027/bySOhvPZ/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清26
+#EXTINF:-1 group-title="CR18+",日韩26
 https://www.800-cdn.com/20191027/xqHCnmsK/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清27
+#EXTINF:-1 group-title="CR18+",日韩27
 https://www.800-cdn.com/20191024/ArdisIvp/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清28
+#EXTINF:-1 group-title="CR18+",日韩28
 https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清29
+#EXTINF:-1 group-title="CR18+",日韩29
 https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清30
+#EXTINF:-1 group-title="CR18+",日韩30
 https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清31
+#EXTINF:-1 group-title="CR18+",日韩31
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清32
+#EXTINF:-1 group-title="CR18+",日韩32
 http://video.jiagew762.com:8091/20180616/wmxnujCZ/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清33
+#EXTINF:-1 group-title="CR18+",日韩33
 http://video.jiagew762.com:8091/20180614/NDShlY4s/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清35
+#EXTINF:-1 group-title="CR18+",日韩35
 http://video.jiagew762.com:8091/20180614/rBl1szfa/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清36
+#EXTINF:-1 group-title="CR18+",日韩36
 http://video.jiagew762.com:8091/20180615/kQOBxis1/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清37
+#EXTINF:-1 group-title="CR18+",日韩37
 http://video.jiagew762.com:8091/20180614/1ltODGjX/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清38
+#EXTINF:-1 group-title="CR18+",日韩38
 http://video.jiagew762.com:8091/20180615/U9uFMZw1/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清39
+#EXTINF:-1 group-title="CR18+",日韩39
 http://video.jiagew762.com:8091/20180614/BUlr34Q7/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清40
+#EXTINF:-1 group-title="CR18+",日韩40
 http://video.jiagew762.com:8091/20180615/YsDPfuX5/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清41
+#EXTINF:-1 group-title="CR18+",日韩41
 http://video.jiagew762.com:8091/20180615/eQN4S0ro/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清42
+#EXTINF:-1 group-title="CR18+",日韩42
 http://video.jiagew762.com:8091/20180616/tsrocUhb/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清43
+#EXTINF:-1 group-title="CR18+",日韩43
 http://video.jiagew762.com:8091/20180615/hb6aWRVY/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清44
+#EXTINF:-1 group-title="CR18+",日韩44
 http://video.jiagew762.com:8091/20180615/Hy0GyDqw/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清45
+#EXTINF:-1 group-title="CR18+",日韩45
 http://video.jiagew762.com:8091/20180615/VNb8JbbL/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清46
+#EXTINF:-1 group-title="CR18+",日韩46
 http://video.jiagew762.com:8091/20180616/UnA748MV/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清48
+#EXTINF:-1 group-title="CR18+",日韩48
 http://video.jiagew762.com:8091/20180616/BpzeWWhs/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清49
+#EXTINF:-1 group-title="CR18+",日韩49
 http://video.jiagew762.com:8091/20180616/4QUnWwoD/index.m3u8
-#EXTINF:-1 group-title="CR18+",日韩高清50
+#EXTINF:-1 group-title="CR18+",日韩50
 http://video.jiagew762.com:8091/20180616/Ddwhp9yH/index.m3u8
 #EXTINF:-1 group-title="CR18+",课中坏事
 https://135zyv6.xw0371.com/2018/11/07/K9mia6mEFZhbBtkX/playlist.m3u8
