@@ -1159,6 +1159,32 @@ TVB神剧,http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
 大国时代,http://hls-ott-zhibo.wasu.tv/live/124_74884/index.m3u8
 历史解密,http://hls-ott-zhibo.wasu.tv/live/127_45151/index.m3u8
 社会真相,http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8
+熊猫直播,https://mobilelive-play.ysp.cctv.cn/ysp/2001366602_hd.m3u8
+冰火频道,http://aldirect.rtmp.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+亚洲电影,http://aldirect.rtmp.huya.com/backsrc/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8
+恐怖电影,http://aldirect.rtmp.huya.com/backsrc/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+海外剧场,http://aldirect.rtmp.huya.com/backsrc/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
+乐视剧场,http://aldirect.rtmp.huya.com/backsrc/1448686674-1448686674-6222061886981013504-2789274590-10057-A-0-1.m3u8
+乐视电影,http://aldirect.rtmp.huya.com/backsrc/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
+家庭影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+影视精品,http://aldirect.rtmp.huya.com/backsrc/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
+海外影院,http://aldirect.rtmp.huya.com/backsrc/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+欧美影院,http://aldirect.rtmp.huya.com/backsrc/94525224-2579672162-11079607570191613952-2789274580-10057-A-0-1.m3u8
+星影电影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+高清影视,http://aldirect.rtmp.huya.com/backsrc/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1.m3u8
+戏剧影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+电影一区,http://aldirect.rtmp.huya.com/backsrc/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+剧集一区,http://aldirect.rtmp.huya.com/backsrc/1448731738-1448731738-6222255435387240448-2847687610-10057-A-0-1.m3u8
+高清动漫,http://aldirect.rtmp.huya.com/backsrc/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.m3u8
+海绵宝宝,http://aldirect.rtmp.huya.com/backsrc/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
+乐视亲子,http://aldirect.rtmp.huya.com/backsrc/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+乐视综合,http://aldirect.rtmp.huya.com/backsrc/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
+乐视超清,http://aldirect.rtmp.huya.com/backsrc/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
+乐视跟播,http://aldirect.rtmp.huya.com/backsrc/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+乐视音乐,http://aldirect.rtmp.huya.com/backsrc/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
+乐视韩剧,http://aldirect.rtmp.huya.com/backsrc/29169025-2686220814-11537230545964498944-2847687606-10057-A-0-1.m3u8
+乐视电视剧,http://aldirect.rtmp.huya.com/backsrc/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
+乐视自制剧,http://aldirect.rtmp.huya.com/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
 
 港澳   ,#genre#
 凤凰中文,http://%6c%69%76%65%61%6c%69%2e%69%66%65%6e%67%2e%63%6f%6d/%6c%69%76%65/%46%48%5a%57%2e%6d%33%75%38#http://live.centerch.com/fhzw.m3u8
@@ -1348,7 +1374,40 @@ Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 埃及 Ⅰ AVA 音乐频道,http://51.15.236.137/hls/stream.m3u8斯诺伐克 Ⅰ J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
 斯诺伐克 Ⅰ J O J 频道,http://nn2.joj.sk/hls/joj-540.m3u8
 斯洛伐克 Ⅰ WAU 频道,http://nn2.joj.sk/hls/wau-540.m3u8
-
+越南 Ⅰ ANTV,http://%61%6e%74%76%6c%69%76%65%2e%61%62%35%63%36%39%32%31%2e%63%64%6e%76%69%65%74%2e%63%6f%6d/%61%6e%74%76/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+泰国 Ⅰ HGTV,%68%74%74%70%73://%65%64%67%65%31%61%2e%76%32%68%2d%63%64%6e%2e%63%6f%6d/%61%70%70%74%37/%4d%48%4f%4e%47%2e%73%74%72%65%61%6d%5f%37%32%30%70/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8#http://%64%33%34%65%39%30%73%33%73%31%33%69%37%6e%2e%63%6c%6f%75%64%66%72%6f%6e%74%2e%6e%65%74:%38%30/%68%6c%73/%63%68%38%63%74%76/%6d%61%73%74%65%72%2e%6d%33%75%38
+亚洲新闻,http://%64%32%65%31%61%73%6e%73%6c%37%62%72%37%62%2e%63%6c%6f%75%64%66%72%6f%6e%74%2e%6e%65%74/%37%37%38%32%65%32%30%35%65%37%32%66%34%33%61%65%62%34%61%34%38%65%63%39%37%66%36%36%65%62%62%65/%69%6e%64%65%78%5f%34%2e%6d%33%75%38
+日本新闻,http://%6e%32%34%2d%63%64%6e%2d%6c%69%76%65%2e%6e%74%76%2e%63%6f%2e%6a%70/%63%68%30%31/%48%69%67%68%2e%6d%33%75%38
+日本电影,http://%31%39%32%2e%32%34%30%2e%31%32%37%2e%33%34:%31%39%33%35/%6c%69%76%65/%63%73%32%37%2e%73%74%72%65%61%6d/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+美国模特,%68%74%74%70%73://%62%6f%7a%7a%74%76%2e%63%6f%6d/%33%36%62%61%79%32/%67%69%6e/%67%69%6e%69%6b%6f%5f%6d%6f%64%65%6c%69%6e%63%5f%32%30%30%30%6b%62%5f%33%36%62%61%79%32/%74%72%61%63%6b%73%2d%76%31%61%31/%6d%6f%6e%6f%2e%6d%33%75%38
+妙米频道,http://%64%33%6b%77%34%76%68%62%64%70%67%74%71%6b%2e%63%6c%6f%75%64%66%72%6f%6e%74%2e%6e%65%74/%68%6c%73/%6d%69%61%6f%6d%69%70%63%77%65%62/%30%34%2e%6d%33%75%38
+狗狗宠物,http://%76%69%64%65%6f%2e%62%6c%69%76%65%6e%79%63%2e%63%6f%6d/%62%72%6f%61%64%63%61%73%74/%70%72%6f%64/%32%30%36%31/%32%32/%66%69%6c%65%2d%33%31%39%32%6b%2e%6d%33%75%38
+历史二台,http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
+日本气象,http://%6d%6f%76%69%65%2e%6d%63%61%73%2e%6a%70/%6d%63%61%73/%77%6e%31%5f%32/%6d%61%73%74%65%72%2e%6d%33%75%38
+泰国 Ⅰ MV I 中文国际,%68%74%74%70%73://%65%64%67%65%31%61%2e%76%32%68%2d%63%64%6e%2e%63%6f%6d/%61%70%70%74%37/%57%53%4d%2e%73%74%72%65%61%6d%5f%37%32%30%70/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+日本 Ⅰ NHK 华语视界,%68%74%74%70%73://%6e%68%6b%77%2d%7a%68%2d%68%6c%73%63%6f%6d%70%2e%61%6b%61%6d%61%69%7a%65%64%2e%6e%65%74/%38%74%68%7a%35%69%75%66%6f%72%6b%38%77%6a%69%70/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38#%68%74%74%70%73://%6d%72%77%2e%73%6f/%35%6b%4b%39%56%51?%64%73%6a%74%76%2e%63%6f%6d/%32%30%32%30%30%32%30%35%2e%6d%33%75%38
+日本 Ⅰ NHK 日本国际,%68%74%74%70%73://%6e%68%6b%77%6c%69%76%65%2d%78%6a%70%2e%61%6b%61%6d%61%69%7a%65%64%2e%6e%65%74/%68%6c%73/%6c%69%76%65/%32%30%30%33%34%35%38/%6e%68%6b%77%6c%69%76%65%2d%78%6a%70/%69%6e%64%65%78%5f%31%4d%2e%6d%33%75%38
+泰国 Ⅰ MVTV 缅甸频道,%68%74%74%70%73://%65%64%67%65%31%61%2e%76%32%68%2d%63%64%6e%2e%63%6f%6d/%61%70%70%74%37/%4d%56%4d%2e%73%74%72%65%61%6d%5f%37%32%30%70/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+泰国 Ⅰ MVTV 家庭频道,%68%74%74%70%73://%65%64%67%65%31%61%2e%76%32%68%2d%63%64%6e%2e%63%6f%6d/%61%70%70%74%37/%4d%56%54%56%2e%73%74%72%65%61%6d%5f%37%32%30%70/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+柬埔寨 Ⅰ SEA 电视频道,http://%32%30%33%2e%31%38%39%2e%31%34%37%2e%32%31%31:%31%39%33%35/%6c%69%76%65/%6d%70%34:%6d%79%53%74%72%65%61%6d%5f%37%32%30%70/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+缅甸 Ⅰ 马哈尔电视,http://%6d%61%68%61%72%6c%69%76%65%2e%62%2d%63%64%6e%2e%6e%65%74/%73%74%72%65%61%6d%2e%6d%33%75%38
+老挝 Ⅰ 布莱恩电视,%68%74%74%70%73://%6c%69%76%65%66%74%61%2e%6d%61%6c%69%6d%61%72%63%64%6e%2e%63%6f%6d/%66%74%61%65%64%67%65%30%30/%62%72%69%61%6e%74%76%2e%73%64%70/%63%68%75%6e%6b%6c%69%73%74%2e%6d%33%75%38
+缅甸 Ⅰ 缅甸 9台,http://%65%64%67%65%2d%73%74%72%65%61%6d%2d%30%37%2e%6f%74%76%2e%63%6f%2e%74%68/%6c%69%76%65%73%74%72%65%61%6d/%43%68%61%6e%6e%65%6c%39%2e%73%74%72%65%61%6d/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+缅甸 Ⅰ 缅甸中央,http://%65%64%67%65%2d%73%74%72%65%61%6d%2d%30%37%2e%6f%74%76%2e%63%6f%2e%74%68/%6c%69%76%65%73%74%72%65%61%6d/%4d%4e%54%56%2e%73%74%72%65%61%6d/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+泰国 Ⅰ 快乐电视,%68%74%74%70%73://%65%64%67%65%31%61%2e%76%32%68%2d%63%64%6e%2e%63%6f%6d/%61%70%70%74%33/%48%61%70%70%79%2e%73%74%72%65%61%6d%5f%37%32%30%70/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+美国 Ⅰ 航天频道,http://%77%6f%77%7a%61%2d%66%65%65%64%30%39%2d%6e%61%73%61%2e%70%6c%75%74%6f%2e%74%76/%66%65%65%64%30%39/%6e%67%72%70:%6e%61%73%61%5f%61%6c%6c/%70%6c%61%79%6c%69%73%74%2e%6d%33%75%38
+意大利 Ⅰ RAI 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+意大利 Ⅰ RAI 大口,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8
+意大利 Ⅰ RAI 四台,http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+意大利 Ⅰ RAI 五台,http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8
+意大利 Ⅰ RAI 溢价,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+法国时尚,http://%6c%62%2e%73%74%72%65%61%6d%69%6e%67%2e%73%6b/%66%61%73%68%69%6f%6e%74%76/%73%74%72%65%61%6d/%63%68%75%6e%6b%6c%69%73%74%5f%77%31%37%30%32%30%37%30%34%34%34%2e%6d%33%75%38
+红牛运动,http://%72%62%6d%6e%2d%6c%69%76%65%2e%61%6b%61%6d%61%69%7a%65%64%2e%6e%65%74/%68%6c%73/%6c%69%76%65/%35%39%30%39%36%34/%42%6f%52%42%2d%41%54/%6d%61%73%74%65%72%5f%39%32%38%2e%6d%33%75%38
+国家地理,http://%6c%69%76%65%63%64%6e%68%31%2e%74%76%61%6e%79%77%68%65%72%65%2e%61%65/%68%6c%73/%6e%61%74%5f%67%65%6f/%30%34%2e%6d%33%75%38
+地理野生,http://%6c%69%76%65%63%64%6e%68%31%2e%74%76%61%6e%79%77%68%65%72%65%2e%61%65/%68%6c%73/%6e%61%74%5f%67%65%6f%5f%77%69%6c%64/%30%34%2e%6d%33%75%38
+地理悠人,http://%6c%69%76%65%63%64%6e%68%31%2e%74%76%61%6e%79%77%68%65%72%65%2e%61%65/%68%6c%73/%6e%61%74%5f%67%65%6f%5f%70%65%6f%70%6c%65/%30%34%2e%6d%33%75%38
+半岛电视,http://%65%6e%67%6c%69%73%68%2e%73%74%72%65%61%6d%69%6e%67%2e%61%6c%6a%61%7a%65%65%72%61%2e%6e%65%74/%61%6c%6a%61%7a%65%65%72%61/%65%6e%67%6c%69%73%68%32/%69%6e%64%65%78%31%32%39%36%2e%6d%33%75%38
 D Music,,ttps://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v3a1/mono.m3u8
 TV3 HD,,ttps://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v3a1/mono.m3u8
 Town TV Full HD,,ttps://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v3a1/mono.m3u8
@@ -1572,6 +1631,253 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 金莎 Ⅰ 星月神话,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.mp4
 李玉刚 Ⅰ 梦回诛仙,http://220.194.238.104/13/y/c/k/c/yckcjlqfbusmaeslsffhfvajlmxoqt/hd.yinyuetai.com/21D6016E026639F9174363E4B2EB78AC.mp4?sc=7c7e0152a3a80191
 乔玲二 Ⅰ 你走进了我的心房,http://220.194.238.108/13/t/k/c/c/tkccjkpcpjtpdkcqvwbfznzhrtezsa/hc.yinyuetai.com/1E57016ABB574354709C08D37DD47091.mp4
+丛书 ◆ 不变的情缘,https://jxpan.vip/file/48606/9H5pNy1X/丛书_不变的情缘.mp4
+小爱 ◆ 留不住变心的你,https://jxpan.vip/file/48606/aO2OOGwS/小爱_留不住变心的你.mkv
+刘晓 ◆ 天在下雨我在恨你,https://jxpan.vip/file/48606/tVWYGdku/刘晓_天在下雨我在恨你.mp4
+陈瑞 ◆ 一个人的时候好好爱自己,https://jxpan.vip/file/48606/vN6f2DON/陈瑞_一个人的时候好好爱自己.mp4
+黄龄 ◆ 走过咖啡屋,https://jxpan.vip/file/48606/r13snCvP/黄龄_走过咖啡屋.mp4
+唐古 ◆ 说给男人听,https://jxpan.vip/file/48606/qMTjsQBD/唐古_说给男人听.mp4
+孙露 ◆ 下辈子也要找到你,https://jxpan.vip/file/48606/rE8OpUyS/孙露_下辈子也要找到你.mp4
+孙露 ◆ 光辉岁月,https://jxpan.vip/file/48606/P7Hd8LLt/孙露_光辉岁月.mp4
+小曼 ◆ 别让我一个人醉,https://jxpan.vip/file/48606/oPwmi4pj/小曼_别让我一个人醉.mp4
+门丽 ◆ 死心塌地去爱你,https://jxpan.vip/file/48606/CzE5WqGA/门丽_死心塌地去爱你.mp4
+杭娇 ◆ 一剪梅,https://jxpan.vip/file/48606/XkxXAohW/杭娇_一剪梅.mp4
+原子霏 ◆ 不想哭却有泪在流,https://jxpan.vip/file/48606/RwPxGmz9/原子霏_不想哭却有泪在流.mp4
+桂莹莹 ◆ 香水有毒,https://jxpan.vip/file/48606/WipMW2qK/桂莹莹_香水有毒.mp4
+程慧雯 ◆ 一生何求,https://jxpan.vip/file/48606/T07YusKU/程慧雯_一生何求.mp4
+程慧雯 ◆ 惦记这一些,https://jxpan.vip/file/48606/QhTnlqTO/程慧雯_惦记这一些.mp4
+王程明 ◆ 今生最爱,https://jxpan.vip/file/48606/eOeYGFrQ/王程明_今生最爱.mp4
+二小姐 ◆ 小二上酒,https://jxpan.vip/file/48606/ctju1qkJ/二小姐_小二上酒.mp4
+张国荣 ◆ 倩女幽魂,https://jxpan.vip/file/48606/SqQ3uxXd/张国荣_倩女幽魂.mp4
+张怡诺 ◆ 最后一个才明白,https://jxpan.vip/file/48606/Wy88OXLH/张怡诺_最后一个才明白.mp4
+苏谭谭 ◆ 爱过了也伤过了,https://jxpan.vip/file/48606/vWYWYCq2/苏谭谭_爱过了也伤过了.mp4
+四国语 ◆ 情非得已,https://jxpan.vip/file/48606/d1mN4ORP/四国语_情非得已.mp4
+张文绮 ◆ 水喷喷,https://jxpan.vip/file/48606/bx3v03Xe/张文绮_水喷喷.mp4
+张文绮 ◆ 爱情的模样,https://jxpan.vip/file/48606/1P2dcXXq/张文绮_爱情的模样.mp4
+张文绮 ◆ 爱着无法度,https://jxpan.vip/file/48606/xmtMLTWM/张文绮_爱着无法度.mp4
+张玮伽 ◆ 假情真爱,https://jxpan.vip/file/48606/b5BYA0Wt/张玮伽_假情真爱.mp4
+戴梅君 ◆ 做你的亲爱的,https://jxpan.vip/file/48606/sUbWOsPJ/戴梅君_做你的亲爱的.mp4
+戴梅君 ◆ 公主时代,https://jxpan.vip/file/48606/2QWE3V4C/戴梅君_公主时代.mp4
+戴梅君 ◆ 心痛的情歌,https://jxpan.vip/file/48606/6zyI4mTk/戴梅君_心痛的情歌.mp4
+方季惟 ◆ 听说你离开他,https://jxpan.vip/file/48606/Y8W71FwO/方季惟_听说你离开他.mkv
+洪百惠 ◆ 人生茶,https://jxpan.vip/file/48606/JfNaLy21/洪百惠_人生茶.mp4
+洪百慧 ◆ 白蛇传说,https://jxpan.vip/file/48606/dMDiJo60/洪百慧_白蛇传说.mp4
+潘美辰 ◆ 愛情的故事,https://jxpan.vip/file/48606/lt3sfzSI/潘美辰_愛情的故事.mkv
+罗翎允 ◆ 欢喜就好,https://jxpan.vip/file/48606/SugEpxqX/罗翎允_欢喜就好.mp4
+王杰 ◆ 冰冷长街,https://jxpan.vip/file/48606/mr1GaW87/王杰_冰冷长街.mp4
+王杰 ◆ 大约在冬季,https://jxpan.vip/file/48606/jUtr6nmM/王杰_大约在冬季.mkv
+王杰 ◆ 她的背影,https://jxpan.vip/file/48606/sLf7Lx1Q/王杰_她的背影.mp4
+王杰 ◆ 忘了你忘了我,https://jxpan.vip/file/48606/wrrtesQh/王杰_忘了你忘了我.mkv
+筝儿 ◆ 等良人,https://jxpan.vip/file/48606/R5Jj3OW8/筝儿_等良人.mp4
+翠卿 ◆ 千千阙歌,https://jxpan.vip/file/48606/41RgijTy/翠卿_千千阙歌.mp4
+越南语 ◆ 千千阙歌,https://jxpan.vip/file/48606/0WCGvgxn/越南语_千千阙歌.mp4
+越南语 ◆ 大约在冬季,https://jxpan.vip/file/48606/Eb5W8gX1/越南语_大约在冬季.mp4
+越南语 ◆ 容易受伤的女人,https://jxpan.vip/file/48606/kQdju6t1/越南语_容易受伤的女人.mp4
+越南语 ◆ 犯错,https://jxpan.vip/file/48606/kxG5k8DO/越南语_犯错.mp4
+谢金燕 ◆ 姐姐,https://jxpan.vip/file/48606/l0gCtP2p/谢金燕_姐姐.mp4
+郑意文 ◆ 一二三我愛你,https://jxpan.vip/file/48606/jeki6kT7/郑意文_一二三我愛你.mp4
+金小鱼 ◆ 最熟悉的陌生人,https://jxpan.vip/file/48606/lOuYKPNE/金小鱼_最熟悉的陌生人.mkv
+阮明雪 ◆ 天后现场演唱会,https://jxpan.vip/file/48606/eg9bNiBM/阮明雪_天后现场演唱会.mp4
+陈丽媚 ◆ 许多年以后,https://jxpan.vip/file/48606/KR93yCxH/陈丽媚_许多年以后.mp4
+陈俐绢 ◆ 下定决心忘记你,https://jxpan.vip/file/48606/Ni5Peixg/陈俐绢_下定决心忘记你.mp4
+剧集   ,#genre#
+01与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/ylF4Is7I/01与郎共舞_1991温碧霞_TVB香港.mkv
+02与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/fPrXReJj/02与郎共舞_1991温碧霞_TVB香港.mkv
+03与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/xr70Ns3Q/03与郎共舞_1991温碧霞_TVB香港.mkv
+04与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/QUmWC0Ax/04与郎共舞_1991温碧霞_TVB香港.mkv
+05与郎共舞 ◆ 1991温碧霞 ◆ TVB香港,https://jxpan.vip/file/48606/xSTr9PRO/05与郎共舞_1991温碧霞_TVB香港.mkv
+
+01白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/SQa5XesN/01白骨阴阳剑_1989吴茜薇_ATV香港.mkv
+02白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/x4FuL0bG/02白骨阴阳剑_1989吴茜薇_ATV香港.mkv
+03白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/gYHGheiz/03白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
+04白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/JOylx3YO/04白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
+05白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/Rw44XpuE/05白骨阴阳剑_1989吴茜薇_ATV香港.mkv
+06白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/mbC0I74Q/06白骨阴阳剑_1989吴茜薇_ATV香港.mkv
+07白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/I6cSJ68f/07白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
+08白骨阴阳剑 ◆ 1989吴茜薇 ◆ ATV香港,https://jxpan.vip/file/48606/hqdAGFkt/08白骨阴阳剑_1989吴茜薇_ATV香港.mkv 
+
+01王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/iCYGA1NB/01王保长新编_2004李保田.mkv
+02王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/b8OUMIfy/02王保长新编_2004李保田.mkv
+03王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/XG22gBdU/03王保长新编_2004李保田.mkv
+04王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/bWxuCmAf/04王保长新编_2004李保田.mkv
+05王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/1gvC1Tk9/05王保长新编_2004李保田.mkv 
+06王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/tkhzK0u4/06王保长新编_2004李保田.mkv 
+07王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Kp4Mv3Jb/07王保长新编_2004李保田.mkv
+08王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/zpYmWXkb/08王保长新编_2004李保田.mkv
+09王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/kpRRB3js/09王保长新编_2004李保田.mkv 
+10王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/ESGOtRMR/10王保长新编_2004李保田.mkv
+11王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Squ8RAuO/11王保长新编_2004李保田.mkv
+12王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Q4to91wT/12王保长新编_2004李保田.mkv
+13王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/t0h0Owrq/13王保长新编_2004李保田.mkv
+14王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/fDmGIJVa/14王保长新编_2004李保田.mkv 
+15王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Oatxcczh/15王保长新编_2004李保田.mkv 
+16王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/b3JdKB7P/16王保长新编_2004李保田.mkv
+17王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/Yu0a33Y7/17王保长新编_2004李保田.mkv 
+18王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/atm1Czxr/18王保长新编_2004李保田.mkv 
+19王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/sOfwXhbN/19王保长新编_2004李保田.mkv
+20王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/aaJM6OL4/20王保长新编_2004李保田.mkv
+21王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/X9d3ucbh/21王保长新编_2004李保田.mkv 
+22王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/LRtU4f1T/22王保长新编_2004李保田.mkv 
+23王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/A5chkEww/23王保长新编_2004李保田.mkv
+24王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/fRgdll5w/24王保长新编_2004李保田.mkv 
+25王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/HG2ds7SX/25王保长新编_2004李保田.mkv
+26王保长新编 ◆ 2004李保田,https://jxpan.vip/file/48606/a1X5eoS7/26王保长新编_2004李保田.mkv 
+
+01东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/7B22Erl8/01东京仙履奇缘_1994日本.mkv 
+02东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/D7fdtkb1/02东京仙履奇缘_1994日本.mkv 
+03东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/LISYrHkh/03东京仙履奇缘_1994日本.mkv 
+04东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/4UuGgKID/04东京仙履奇缘_1994日本.mkv 
+05东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/5eRi8NhU/05东京仙履奇缘_1994日本.mkv 
+06东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/KnbHsPXO/06东京仙履奇缘_1994日本.mkv
+07东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/a2m5W4Kn/07东京仙履奇缘_1994日本.mkv
+08东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/wOdgklbk/08东京仙履奇缘_1994日本.mkv 
+09东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/Psipunxi/09东京仙履奇缘_1994日本.mkv 
+10东京仙履奇缘 ◆ 1994日本,https://jxpan.vip/file/48606/qCqeuBpL/10东京仙履奇缘_1994日本.mkv
+
+01武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/gwE2zTg7/01武林幸运星_1992温兆伦_TVB香港.mkv
+02武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/v6yi3iOR/02武林幸运星_1992温兆伦_TVB香港.mkv
+03武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/thzz54Dg/03武林幸运星_1992温兆伦_TVB香港.mkv
+04武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/Ol4GnUIy/04武林幸运星_1992温兆伦_TVB香港.mkv
+05武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/cn5KFzFj/05武林幸运星_1992温兆伦_TVB香港.mkv
+06武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/gjAjXvMN/06武林幸运星_1992温兆伦_TVB香港.mkv
+07武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/5B9J3va7/07武林幸运星_1992温兆伦_TVB香港.mkv
+08武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/nWdqTcGq/08武林幸运星_1992温兆伦_TVB香港.mkv
+09武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/LLRotlIw/09武林幸运星_1992温兆伦_TVB香港.mkv
+10武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/b1f90cQp/10武林幸运星_1992温兆伦_TVB香港.mkv
+11武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/doDcQOC5/11武林幸运星_1992温兆伦_TVB香港.mkv
+12武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/7MB6M5yv/12武林幸运星_1992温兆伦_TVB香港.mkv
+13武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/5NSoaFGY/13武林幸运星_1992温兆伦_TVB香港.mkv
+14武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/DrJQiiXr/14武林幸运星_1992温兆伦_TVB香港.mkv
+15武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/7EA4KG5U/15武林幸运星_1992温兆伦_TVB香港.mkv
+16武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/suH6SaV8/16武林幸运星_1992温兆伦_TVB香港.mkv
+17武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/2TUlTc9q/17武林幸运星_1992温兆伦_TVB香港.mkv
+18武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/7KPu49S4/18武林幸运星_1992温兆伦_TVB香港.mkv
+19武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/PvjuMnez/19武林幸运星_1992温兆伦_TVB香港.mkv
+20武林幸运星 ◆ 1992温兆伦 ◆ TVB香港,https://jxpan.vip/file/48606/W2d7NDhG/20武林幸运星_1992温兆伦_TVB香港.mkv
+
+01青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/dRIyFQnb/01青锋剑影_1984苗侨伟_TVB香港.mkv
+02青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/uPUQMBGP/02青锋剑影_1984苗侨伟_TVB香港.mkv
+03青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/dBjN1tlx/03青锋剑影_1984苗侨伟_TVB香港.mkv
+04青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/cRYgaOtz/04青锋剑影_1984苗侨伟_TVB香港.mkv
+05青锋剑影 ◆ 1984苗侨伟 ◆ TVB香港,https://jxpan.vip/file/48606/0BOz7WUW/05青锋剑影_1984苗侨伟_TVB香港.mkv
+
+01碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/KCtyoupn/01碧血洗银枪_1984陶大宇_TVB香港.mkv
+02碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/68crqxzM/02碧血洗银枪_1984陶大宇_TVB香港.mkv
+03碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/PzFVOEdG/03碧血洗银枪_1984陶大宇_TVB香港.mkv
+04碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/unXsNrDd/04碧血洗银枪_1984陶大宇_TVB香港.mkv
+05碧血洗银枪 ◆ 1984陶大宇 ◆ TVB香港,https://jxpan.vip/file/48606/5J7gGbVq/05碧血洗银枪_1984陶大宇_TVB香港.mkv
+
+01天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/dW22OepD/01天剑绝刀_1989周秀兰_ATV香港.mkv
+02天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/67DXAVh2/02天剑绝刀_1989周秀兰_ATV香港.mkv
+03天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/Rbp8bovS/03天剑绝刀_1989周秀兰_ATV香港.mkv
+04天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/nqjNzfAS/04天剑绝刀_1989周秀兰_ATV香港.mkv
+05天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/QdUkXbOp/05天剑绝刀_1989周秀兰_ATV香港.mkv
+06天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/4gz9ebmc/06天剑绝刀_1989周秀兰_ATV香港.mkv
+07天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/RKtj15xu/07天剑绝刀_1989周秀兰_ATV香港.mkv
+08天剑绝刀 ◆ 1989周秀兰 ◆ ATV香港,https://jxpan.vip/file/48606/zczr2Xe5/08天剑绝刀_1989周秀兰_ATV香港.mkv
+
+01浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/4jhQehE1/01浣花洗剑录_1976张国荣_ATV香港.mkv
+02浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/jXraHRx7/02浣花洗剑录_1976张国荣_ATV香港.mkv
+03浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/HOqMJLB8/03浣花洗剑录_1976张国荣_ATV香港.mkv
+04浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/DDWgDISd/04浣花洗剑录_1976张国荣_ATV香港.mkv
+05浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/fcd1VYbd/05浣花洗剑录_1976张国荣_ATV香港.mkv
+06浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/2HJROJsA/06浣花洗剑录_1976张国荣_ATV香港.mkv
+07浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/YxyP4MX8/07浣花洗剑录_1976张国荣_ATV香港.mkv
+08浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/DH6r0xTR/08浣花洗剑录_1976张国荣_ATV香港.mkv
+09浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/yNhUPfnr/09浣花洗剑录_1976张国荣_ATV香港.mkv
+10浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/9BxHxlV3/10浣花洗剑录_1976张国荣_ATV香港.mkv
+11浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/WtKyA6Rk/11浣花洗剑录_1976张国荣_ATV香港.mkv
+12浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/ojSoTya7/12浣花洗剑录_1976张国荣_ATV香港.mkv
+13浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/g4PO3EA5/13浣花洗剑录_1976张国荣_ATV香港.mkv
+14浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/FqKb1lp8/14浣花洗剑录_1976张国荣_ATV香港.mkv
+15浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/fVdBHga1/15浣花洗剑录_1976张国荣_ATV香港.mkv
+16浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/xoLMmAMV/16浣花洗剑录_1976张国荣_ATV香港.mkv
+17浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/OOXlluYd/17浣花洗剑录_1976张国荣_ATV香港.mkv
+18浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/a7XxXIV5/18浣花洗剑录_1976张国荣_ATV香港.mkv
+19浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/4dDI3TeO/19浣花洗剑录_1976张国荣_ATV香港.mkv
+20浣花洗剑录 ◆ 1976张国荣 ◆ ATV香港,https://jxpan.vip/file/48606/Tym9UwvE/20浣花洗剑录_1976张国荣_ATV香港.mkv
+
+01遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/7wrlR5Qz/01遗失的世界_第二部_欧美.mkv
+02遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/Hk4bPXEk/02遗失的世界_第二部_欧美.mkv
+03遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/vxl1GWFy/03遗失的世界_第二部_欧美.mkv
+04遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/GGTOS9qX/04遗失的世界_第二部_欧美.mkv
+05遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/OJjQTvh9/05遗失的世界_第二部_欧美.mkv
+06遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/UXXi5N7N/06遗失的世界_第二部_欧美.mkv
+07遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/SfYhXnxA/07遗失的世界_第二部_欧美.mkv
+08遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/DtKOHjiT/08遗失的世界_第二部_欧美.mkv
+09遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/nA0lgdRx/09遗失的世界_第二部_欧美.mkv
+10遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/8LNPt2BX/10遗失的世界_第二部_欧美.mkv
+11遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/Cx73YxRr/11遗失的世界_第二部_欧美.mkv
+12遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/lO6jbC9o/12遗失的世界_第二部_欧美.mkv
+13遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/zPyy43lT/13遗失的世界_第二部_欧美.mkv
+14遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/rm7c5Nly/14遗失的世界_第二部_欧美.mkv
+15遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/S1055p9a/15遗失的世界_第二部_欧美.mkv
+16遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/jalAzhAf/16遗失的世界_第二部_欧美.mkv
+17遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/Q89FSyC2/17遗失的世界_第二部_欧美.mkv
+18遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/hhAfTvUE/18遗失的世界_第二部_欧美.mkv
+19遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/c3axpA0b/19遗失的世界_第二部_欧美.mkv
+20遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/YvJLdgRh/20遗失的世界_第二部_欧美.mkv
+21遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/M676HxO5/21遗失的世界_第二部_欧美.mkv
+22遗失的世界 ◆ 第二部 ◆ 欧美,https://jxpan.vip/file/48606/G8l8rRIe/22遗失的世界_第二部_欧美.mkv
+
+电影    ,#genre#
+大陆 ◆ 活着 ◆ 1994葛优,https://jxpan.vip/file/48606/QohsOYlS/大陆_活着_1994葛优.mkv
+香港 ◆ 街女 ◆ 1982李赛凤,https://jxpan.vip/file/48606/YHy051dN/香港_街女_1982李赛凤.mkv
+香港 ◆ 跛豪 ◆ 1991吕良伟,https://jxpan.vip/file/48606/gQtIzqDG/香港_跛豪_1991吕良伟.mkv
+香港 ◆ 力王 ◆ 1992樊少皇,https://jxpan.vip/file/48606/bB4uiVyP/香港_力王_1992樊少皇.mkv
+香港 ◆ 阿虎 ◆ 2000刘德华,https://jxpan.vip/file/48606/G1lMrltT/香港_阿虎_2000刘德华.mkv
+大陆 ◆ 天注定 ◆ 2013王宝强,https://jxpan.vip/file/48606/rVdsMUnw/大陆_天注定_2013王宝强.mkv
+香港 ◆ 天与地 ◆ 1994刘德华版,https://jxpan.vip/file/48606/NxTWPqFl/香港_天与地_1994刘德华版.mkv
+香港 ◆ 巡城马 ◆ 1982周润发,https://jxpan.vip/file/48606/RFyL47Hm/香港_巡城马_1982周润发.mkv
+香港 ◆ 马永贞 ◆ 1997金城武,https://jxpan.vip/file/48606/cLNguVoJ/香港_马永贞_1997金城武.mkv
+香港 ◆ 女警察 ◆ 1973成龙,https://jxpan.vip/file/48606/omAMwDCb/香港_女警察_1973成龙.mkv
+香港 ◆ 八两金 ◆ 1989洪金宝,https://jxpan.vip/file/48606/r9sJ0D71/香港_八两金_1989洪金宝.mkv
+香港 ◆ 表哥到 ◆ 1987吴耀汉,https://jxpan.vip/file/48606/Prz2rPIW/香港_表哥到_1987吴耀汉.mkv
+香港 ◆ 美男子 ◆ 1987吴耀汉,https://jxpan.vip/file/48606/frVn2LMw/香港_美男子_1987吴耀汉.mkv
+香港 ◆ 妖魔道 ◆ 1991张敏,https://jxpan.vip/file/48606/Ye0vvmMF/香港_妖魔道_1991张敏.mkv
+香港 ◆ 收数王 ◆ 1999张家辉,https://jxpan.vip/file/48606/OidWAMXi/香港_收数王_1999张家辉.mkv
+大陆 ◆ 西北风云 ◆ 2018任达华,https://jxpan.vip/file/48606/6EGrIN4L/大陆_西北风云_2018任达华.mkv
+大陆 ◆ 猛虫过江 ◆ 2018小沈阳,https://jxpan.vip/file/48606/A8rysW6Q/大陆_猛虫过江_2018小沈阳.mkv
+台湾 ◆ 一年幽梦 ◆ 1974邓光荣,https://jxpan.vip/file/48606/VNqSXt1G/台湾_一年幽梦_1974邓光荣.mkv
+香港 ◆ 叠影惊情 ◆ 1993李嘉欣,https://jxpan.vip/file/48606/7IgSvm0n/香港_叠影惊情_1993李嘉欣.mkv
+香港 ◆ 吉屋藏娇 ◆ 1988尔冬升,https://jxpan.vip/file/48606/zTOAbTmQ/香港_吉屋藏娇_1988尔冬升.mkv
+香港 ◆ 龙之争霸 ◆ 1989任达华,https://jxpan.vip/file/48606/6fOBND9n/香港_龙之争霸_1989任达华.mkv
+香港 ◆ 龙争虎斗 ◆ 1973李小龙,https://jxpan.vip/file/48606/OS6ej3FE/香港_龙争虎斗_1973李小龙.mkv
+香港 ◆ 死亡游戏 ◆ 1978李小龙,https://jxpan.vip/file/48606/fXrDmQdX/香港_死亡游戏_1978李小龙.mkv
+香港 ◆ 灵界风云 ◆ 1990林正英版,https://jxpan.vip/file/48606/dY5tyzCe/香港_灵界风云_1990林正英版.mkv
+香港 ◆ 夕阳天使 ◆ 2002舒淇,https://jxpan.vip/file/48606/TEgBFN4U/香港_夕阳天使_2002舒淇.mkv
+香港 ◆ 满汉全席 ◆ 1995张国荣版,https://jxpan.vip/file/48606/Gn57LBl4/香港_满汉全席_1995张国荣版.mkv
+香港 ◆ 皇家女将 ◆ 1990高丽虹,https://jxpan.vip/file/48606/pvjBASr3/香港_皇家女将_1990高丽虹.mkv
+香港 ◆ 英雄人物 ◆ 2001柯受良,https://jxpan.vip/file/48606/ggVmslfm/香港_英雄人物_2001柯受良.mkv
+香港 ◆ 虎猛威龙 ◆ 1995何家劲,https://jxpan.vip/file/48606/oAmjqGQH/香港_虎猛威龙_1995何家劲.mkv
+美国 ◆ 恐龙之岛 ◆ 1975冒险,https://jxpan.vip/file/48606/7VWiSEeE/美国_恐龙之岛_1975冒险.mkv
+香港 ◆ 金榜题名 ◆ 1996张智霖,https://jxpan.vip/file/48606/xawabJmO/香港_金榜题名_1996张智霖.mkv
+香港 ◆ 火云传奇 ◆ 1994林青霞,https://jxpan.vip/file/48606/fFFPNeNj/香港_火云传奇_1994林青霞.mkv
+香港 ◆ 炭烧凶咒 ◆ 2000陈小春,https://jxpan.vip/file/48606/nn5XheX0/香港_炭烧凶咒_2000陈小春.mkv
+香港 ◆ 失业皇帝 ◆ 1999罗嘉良,https://jxpan.vip/file/48606/eD14SfE3/香港_失业皇帝_1999罗嘉良.mkv
+香港 ◆ 妙探双娇 ◆ 1992李赛凤,https://jxpan.vip/file/48606/smrOYDBq/香港_妙探双娇_1992李赛凤.mkv
+香港 ◆ 杀街英雄 ◆ 1989任达华,https://jxpan.vip/file/48606/h95hthXB/香港_杀街英雄_1989任达华.mkv
+香港 ◆ 小偷阿星 ◆ 1990周星驰,https://jxpan.vip/file/48606/o0C9jIcX/香港_小偷阿星_1990周星驰.mkv
+香港 ◆ 布衣神相 ◆ 1984徐少强,https://jxpan.vip/file/48606/nbOw1WzS/香港_布衣神相_1984徐少强.mkv
+香港 ◆ 志在出位 ◆ 1991钟镇涛,https://jxpan.vip/file/48606/Fx2n9k7X/香港_志在出位_1991钟镇涛.mkv
+香港 ◆ 情逢敌手 ◆ 1985甄子丹,https://jxpan.vip/file/48606/MjJr5XLi/香港_情逢敌手_1985甄子丹.mkv
+香港 ◆ 我未成年 ◆ 1989郑文雅,https://jxpan.vip/file/48606/s5f5kkq6/香港_我未成年_1989郑文雅.mkv
+香港 ◆ 战龙在野 ◆ 1992王杰,https://jxpan.vip/file/48606/4iNDp37g/香港_战龙在野_1992王杰.mkv
+香港 ◆ 拳坛风云 ◆ 1983陈观泰,https://jxpan.vip/file/48606/cQaF1TmU/香港_拳坛风云_1983陈观泰.mkv
+香港 ◆ 换老还童 ◆ 1989曾志伟,https://jxpan.vip/file/48606/OGnID7vJ/香港_换老还童_1989曾志伟.mkv
+香港 ◆ 古宅心慌慌 ◆ 2003蔡卓妍,https://jxpan.vip/file/48606/4bIwAkX4/香港_古宅心慌慌_2003蔡卓妍.mkv
+香港 ◆ 猛鬼食人胎 ◆ 1998徐锦江,https://jxpan.vip/file/48606/EG450zQA/香港_猛鬼食人胎_1998徐锦江.mkv
+香港 ◆ 少林英雄榜 ◆ 1979姜大卫,https://jxpan.vip/file/48606/JSH0hN6u/香港_少林英雄榜_1979姜大卫.mkv
+香港 ◆ 新仙鹤神针 ◆ 1993梁朝伟版,https://jxpan.vip/file/48606/60AnX4Gv/香港_新仙鹤神针_1993梁朝伟版.mkv
+香港 ◆ 月亮星星太阳 ◆ 1988张曼玉,https://jxpan.vip/file/48606/2OjPOlkW/香港_月亮星星太阳_1988张曼玉.mkv
+香港 ◆ 至尊计状元才 ◆ 1990刘德华,https://jxpan.vip/file/48606/hSMYMDqw/香港_至尊计状元才_1990刘德华.mkv
+香港 ◆ 江湖情之英雄好汉 ◆ 1987周润发,https://jxpan.vip/file/48606/aqULi0Jd/香港_江湖情之英雄好汉_1987周润发.mkv
+香港 ◆ 烈火战车2极速传说 ◆ 1999郑伊健,https://jxpan.vip/file/48606/GRwdPwjy/香港_烈火战车2极速传说_1999郑伊健.mkv
+香港 ◆ 正牌韦小宝之奉旨勾女 ◆ 1993梁朝伟,https://jxpan.vip/file/48606/CIBOtwA3/香港_正牌韦小宝之奉旨勾女_1993梁朝伟.mkv
+香港 ◆ 相约2000年 ◆ 1990陈小春,https://jxpan.vip/file/48606/SJ0OkBBO/香港_相约2000年_1990陈小春.mp4
+香港 ◆ 种鬼 ◆ 未删减 ◆ 1983徐少强,https://jxpan.vip/file/48606/4SWUflkc/香港_种鬼_未删减_1983徐少强.mkv
+香港 ◆ 飞侠小白龙 ◆ 2004张柏芝,https://jxpan.vip/file/48606/8E20rImK/香港_飞侠小白龙_2004张柏芝.mkv
+香港 ◆ 香港第一凶宅 ◆ 1998黎姿,https://jxpan.vip/file/48606/DJ4h7dm7/香港_香港第一凶宅_1998黎姿.mkv
 
 嗨舞   ,#genre#
 车舞 ◆ 泰国超甜美丽模特,https://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
@@ -1617,4 +1923,64 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 电音 ◆ 美女沙滩大海,https://www.zuori.cc/index/downloads?d=43165&v=h8SKIzR4
 舞蹈 ◆ 再一次鬼步舞,https://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
 舞蹈 ◆ 风靡一时的鬼步舞,https://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
-
+小娟 ◆ 爱的路上千万里DJ,https://jxpan.vip/file/48606/mCk24stA/小娟_爱的路上千万里DJ.mp4
+陈瑞 ◆ 念旧的人最容易掉眼泪DJ,https://jxpan.vip/file/48606/Ct6DlfNS/陈瑞_念旧的人最容易掉眼泪DJ.mp4
+东方晴儿 ◆ 再见吧我最爱的你DJ,https://jxpan.vip/file/48606/E3Pictiw/东方晴儿_再见吧我最爱的你DJ.mp4
+东方晴儿 ◆ 格局DJ,https://jxpan.vip/file/48606/jHFqAE1q/东方晴儿_格局DJ.mp4
+欧阳尚尚 ◆ 爱情主演DJ,https://jxpan.vip/file/48606/bPS9nTx1/欧阳尚尚_爱情主演DJ.mp4
+杨小曼 ◆ 他弟弟打的洞DJ,https://jxpan.vip/file/48606/jQ5TP4La/杨小曼_他弟弟打的洞DJ.mp4
+韩宝仪 ◆ 往事只能回味DJ,https://jxpan.vip/file/48606/Clwv4twP/韩宝仪_往事只能回味DJ.mp4
+于文文 ◆ 体面DJ,https://jxpan.vip/file/48606/R8jyo56I/于文文_体面DJ.mp4
+罗百吉 ◆ 街舞DJ,https://jxpan.vip/file/48606/VsTbTrYO/罗百吉_街舞DJ.mp4
+谢金燕 ◆ 一级棒DJ,https://jxpan.vip/file/48606/Tl9aIQ77/谢金燕_一级棒DJ.mkv
+周诗雅 ◆ 爱的热浪DJ,https://jxpan.vip/file/48606/VbPMdw8u/周诗雅_爱的热浪DJ.mp4
+倪尔萍 ◆ 多年以后DJ,https://jxpan.vip/file/48606/882oC9Tq/倪尔萍_多年以后DJ.mp4
+卓舒晨 ◆ 一首小情歌DJ,https://jxpan.vip/file/48606/Wy4sD2yF/卓舒晨_一首小情歌DJ.mp4
+唐古 ◆ 我又想你了DJ,https://jxpan.vip/file/48606/jIsEVisP/唐古_我又想你了DJ.mp4
+唐古 ◆ 突然好想念DJ,https://jxpan.vip/file/48606/ozrJWSJO/唐古_突然好想念DJ.mp4
+杭娇 ◆ 忘了我的爱DJ,https://jxpan.vip/file/48606/LrJXhvQD/杭娇_忘了我的爱DJ.mp4
+大壮 ◆ 我们不一样DJ,https://jxpan.vip/file/48606/w64kWx3F/大壮_我们不一样DJ.mp4
+安琪 ◆ 曾经被爱DJ,https://jxpan.vip/file/48606/ciE7xBNv/安琪_曾经被爱DJ.mp4
+寂悸 ◆ 潮湿的心DJ,https://jxpan.vip/file/48606/9ttWOFPY/寂悸_潮湿的心DJ.mp4
+天蠍丹 ◆ 你的世界到底有了谁DJ,https://jxpan.vip/file/48606/WvjFOBik/天蠍丹_你的世界到底有了谁DJ.mp4
+孙耀威 ◆ 爱的故事上集DJ,https://jxpan.vip/file/48606/a83qfK82/孙耀威_爱的故事上集DJ.mp4
+孙艺琪 ◆ 苍天不负有情人DJ,https://jxpan.vip/file/48606/8JA4UCFO/孙艺琪_苍天不负有情人DJ.mp4
+孙艺琪 ◆ 酒醉的蝴蝶DJ,https://jxpan.vip/file/48606/IuGSD77b/孙艺琪_酒醉的蝴蝶DJ.mp4
+崔伟立VS孙艺琪 ◆ 情火DJ,https://jxpan.vip/file/48606/9lV1VeMy/崔伟立VS孙艺琪_情火DJ.mp4
+崔伟立 ◆ 你是我永远的痛DJ,https://jxpan.vip/file/48606/j3FPKBth/崔伟立_你是我永远的痛DJ.mp4
+张文绮 ◆ 三分钟热度DJ,https://jxpan.vip/file/48606/57ha8woz/张文绮_三分钟热度DJ.mp4
+罗百吉 ◆ 我们都一样DJ,https://jxpan.vip/file/48606/gOimBJqU/罗百吉_我们都一样DJ.mp4
+张旭男 ◆ 爱如蝴蝶飞DJ,https://jxpan.vip/file/48606/0f1kUU4R/张旭男_爱如蝴蝶飞DJ.mp4
+李文静 ◆ 别说你已不在乎DJ,https://jxpan.vip/file/48606/pvftVFLE/李文静_别说你已不在乎DJ.mp4
+李晓杰 ◆ 把酒倒满DJ,https://jxpan.vip/file/48606/BKbyTuNT/李晓杰_把酒倒满DJ.mp4
+杨妹儿 ◆ 孤单为伴DJ,https://jxpan.vip/file/48606/9FLjVhKW/杨妹儿_孤单为伴DJ.mp4
+彭丽嘉 ◆ 爱着你宠着你DJ,https://jxpan.vip/file/48606/nEPOXKvo/彭丽嘉_爱着你宠着你DJ.mp4
+张欣 ◆ 最爱的那个人DJ,https://jxpan.vip/file/48606/58hgc5nt/张欣_最爱的那个人DJ.mp4
+徐倩 ◆ 今夜我一个人醉DJ,https://jxpan.vip/file/48606/DrOArYV9/徐倩_今夜我一个人醉DJ.mp4
+晓晓 ◆ 一路风雨一路你DJ,https://jxpan.vip/file/48606/fj3fyXn7/晓晓_一路风雨一路你DJ.mp4
+暴林 ◆ 殇雪DJ,https://jxpan.vip/file/48606/77zODAg6/暴林_殇雪DJ.mp4
+曹锦 ◆ 坦荡DJ,https://jxpan.vip/file/48606/KtCEp8F6/曹锦_坦荡DJ.mp4
+浪哥 ◆ 下辈子也要找到你DJ,https://jxpan.vip/file/48606/e9EDkA4w/浪哥_下辈子也要找到你DJ.mp4
+王玉萌 ◆ 浪子回头DJ,https://jxpan.vip/file/48606/CpOecp51/王玉萌_浪子回头DJ.mp4
+湖北清 ◆ 受伤的刺猬DJ,https://jxpan.vip/file/48606/1uUWIbBl/湖北清_受伤的刺猬DJ.mp4
+王奕心 ◆ 我的唇吻不到我爱的人DJ,https://jxpan.vip/file/48606/bOecuOVb/王奕心_我的唇吻不到我爱的人DJ.mp4
+王思佳 ◆ 哦哦哦DJ,https://jxpan.vip/file/48606/bSl6fcIn/王思佳_哦哦哦DJ.mp4
+程响 ◆ 新娘不是我DJ,https://jxpan.vip/file/48606/iEuIH2S1/程响_新娘不是我DJ.mp4
+粤语 ◆ 因为爱你DJ,https://jxpan.vip/file/48606/KmAXNHOT/粤语_因为爱你DJ.mp4
+艾萨 ◆ 不再犯傻DJ,https://jxpan.vip/file/48606/zhgCgSYo/艾萨_不再犯傻DJ.mp4
+花姐 ◆ 夜之光DJ,https://jxpan.vip/file/48606/YIXx2crM/花姐_夜之光DJ.mp4
+花姐 ◆ 狂浪DJ一版,https://jxpan.vip/file/48606/N8gA9mI0/花姐_狂浪DJ一版.mp4
+花姐 ◆ 狂狼DJ二版,https://jxpan.vip/file/48606/zzYaM4wh/花姐_狂狼DJ二版.mp4
+菲儿 ◆ 嗒嘀嗒DJ,https://jxpan.vip/file/48606/gwuJA3gO/菲儿_嗒嘀嗒DJ.mp4
+菲儿 ◆ 自由飞翔DJ,https://jxpan.vip/file/48606/L3UzWxdl/菲儿_自由飞翔DJ.mp4
+郭玲 ◆ 拥抱你离去DJ,https://jxpan.vip/file/48606/Y7tz8ewO/郭玲_拥抱你离去DJ.mp4
+郭玲 ◆ 痴情的只有我一个DJ,https://jxpan.vip/file/48606/oMlyBYCS/郭玲_痴情的只有我一个DJ.mp4
+郭玲 ◆ 踢了他DJ,https://jxpan.vip/file/48606/KBqrpS2K/郭玲_踢了他DJ.mp4
+马博 ◆ 菊花爆满山DJ,https://jxpan.vip/file/48606/aAKOajQp/马博_菊花爆满山DJ.mp4
+蓝琪儿 ◆ 不浪漫的罪DJ,https://jxpan.vip/file/48606/ccghIQ7m/蓝琪儿_不浪漫的罪DJ.mp4
+蓝琪儿 ◆ 寂寞爱上了眼泪DJ,https://jxpan.vip/file/48606/eKoKVLfF/蓝琪儿_寂寞爱上了眼泪DJ.mp4
+越南语 ◆ 失恋阵线联盟DJ,https://jxpan.vip/file/48606/cO7dM6Xf/越南语_失恋阵线联盟DJ.mp4
+郑伊涵 ◆ 公虾米DJ,https://jxpan.vip/file/48606/Y8m2isNI/郑伊涵_公虾米DJ.mp4
+郑茜匀 ◆ 爱一回伤一回DJ,https://jxpan.vip/file/48606/zdtmt7hO/郑茜匀_爱一回伤一回DJ.mp4
+魏新雨 ◆ 为你祈祷DJ,https://jxpan.vip/file/48606/9OeDhPqy/魏新雨_为你祈祷DJ.mp4
+龚玥菲 ◆ 夜上海DJ,https://jxpan.vip/file/48606/merb9P1J/龚玥菲_夜上海DJ.mp4
