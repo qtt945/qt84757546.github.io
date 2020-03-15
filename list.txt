@@ -20,18 +20,6 @@ CETV 教育一台,http://112.50.243.4/PLTV/88888888/224/3221226954/1.m3u8#http:/
 CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN 记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
 CGTN 法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
-CI BN 综合频道,http://mrw.so/4o0hIx?tv.m3u8
-CI BN 电影频道,http://%63%69%6e%62%31%2e%70%65%6f%70%6c%65%76%69%64%65%6f%2e%63%6e/%68%6c%73/%76%43%49%42%4e%44%59%50%44/%31%38%30%30/%76%43%49%42%4e%44%59%50%44%2e%6d%33%75%38
-CI BN 动作影院,http://%63%69%62%6e%2e%70%65%6f%70%6c%65%76%69%64%65%6f%2e%63%6e/%68%6c%73/%76%43%49%42%4e%44%5a%59%59/%31%38%30%30/%76%43%49%42%4e%44%5a%59%59%2e%6d%33%75%38
-CI BN 院线大片,http://mrw.so/4CmLiB?tv.m3u8
-CI BN 流金岁月,http://mrw.so/4o0jdV?tv.m3u8
-CI BN 生活频道,http://mrw.so/4JSWJm?tv.m3u8
-CI BN 军事频道,http://mrw.so/4uQwTY?tv.m3u8
-CI BN 真人秀台,http://%63%69%62%6e%2e%70%65%6f%70%6c%65%76%69%64%65%6f%2e%63%6e/%68%6c%73/%76%43%49%42%4e%5a%52%53%57/%31%38%30%30/%76%43%49%42%4e%5a%52%53%57%2e%6d%33%75%38
-CI BN 纪录片台,http://mrw.so/4o0hxT?tv.m3u8
-CI BN 微电影台,http://mrw.so/4RpdiF?tv.m3u8
-CI BN 童学世界,http://%63%69%6e%62%31%2e%70%65%6f%70%6c%65%76%69%64%65%6f%2e%63%6e/%68%6c%73/%76%43%49%42%4e%52%42%4a%43/%31%38%30%30/%76%43%49%42%4e%52%42%4a%43%2e%6d%33%75%38
-CI BN 炫佳动漫,http://mrw.so/5lpp4p?tv.m3u8
 CCTV 高夫网球,http://mrw.so/4o0lg3?tv.m3u8#http://player.200877926.top/17/hubei/hbgdm3u8.php?id=cctvgefwq
 CCTV 怀旧剧场,http://mrw.so/4o0lst?tv.m3u8#http://player.200877926.top/17/hubei/hbgdm3u8.php?id=cctvhjjc
 CCTV 风云剧场,http://player.200877926.top/17/hubei/hbgdm3u8.php?id=cctvfyjc
