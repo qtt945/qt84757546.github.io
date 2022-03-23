@@ -151,7 +151,7 @@ BTV财经-高清,http://v.mp.haue.edu.cn/hls/btv5hd.m3u8
  
 #湖北头#
 湖北卫视,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbws#
-湖北经视,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbjs#
+湖北经视,http://113.57.109.37：9901/tsfile/live/1015_1.m3u8#
 湖北综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbzh#
 湖北公共,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbgg#
 湖北影视,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbys#
