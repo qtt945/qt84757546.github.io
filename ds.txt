@@ -150,14 +150,14 @@ BTV财经-高清,http://v.mp.haue.edu.cn/hls/btv5hd.m3u8
 #卫视尾#
  
 #湖北头#
-湖北卫视,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbws#
+湖北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225699/index.m3u8#
 湖北经视,http://113.57.109.37:9901/tsfile/live/1015_1.m3u8#
-湖北综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbzh#
-湖北公共,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbgg#
+湖北综合,http://113.57.109.37:9901/tsfile/live/1014_1.m3u8#
+湖北公共,http://113.57.109.37:9901/tsfile/live/1017_1.m3u8#
 湖北影视,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbys#
 湖北生活,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbsh#
 湖北教育,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbjy#
-湖北垄上,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hbls#
+湖北垄上,http://113.57.109.37:9901/tsfile/live/1016_1.m3u8#
 美嘉购物,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=mjgw#
 黄冈新闻,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hgxw#
 黄冈公共,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=hggg#
@@ -183,7 +183,7 @@ BTV财经-高清,http://v.mp.haue.edu.cn/hls/btv5hd.m3u8
 大悟综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=dwzh#
 应城新闻,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=ycxwdj#
 应城生活,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=ycsh#
-荆州新闻,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=jzxw#
+荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8#
 荆州垄上,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=jzls#
 荆州公共,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=jzgg#
 松滋综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb40.php?id=szizh#
