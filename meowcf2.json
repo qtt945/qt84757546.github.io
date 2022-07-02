@@ -5,7 +5,7 @@
 
 {
 ## spider
-"spider":"http://freed.yuanhsing.cf/TVBox/MaooXB/XBiubiuLA3.jar",
+"spider":"https://notabug.org/wchjxyzj/TVBox/raw/main/0701.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
