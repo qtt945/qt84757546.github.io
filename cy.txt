@@ -1,6 +1,6 @@
 {
 // spider
-//"spider":"https://pan.tigerroot.cn/down.php/b91043208ce8118ad331d47da3b61fec.jar&jar",
+//"spider":"https://pan.tigerroot.cn/down.php/b91043208ce8118ad331d47da3b61fec.jar&jar"
 //"spider": "clan://TVBox/0701.jar"
 "spider":"https://notabug.org/wchjxyzj/TVBox/raw/main/0701.jar",
 // 直播
